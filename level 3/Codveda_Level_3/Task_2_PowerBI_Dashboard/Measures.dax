@@ -1,0 +1,7 @@
+Total Posts = COUNTROWS('SocialMedia')
+
+Total Likes = SUM('SocialMedia'[Likes])
+
+Total Retweets = SUM('SocialMedia'[Retweets])
+
+Average Likes per Post = AVERAGE('SocialMedia'[Likes])

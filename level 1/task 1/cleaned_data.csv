@@ -1,0 +1,905 @@
+customer_id,full_name,email,signup_date,country,spend,segment,is_active
+CUST-1943, omar brennan,omar.brennan@example.com,25-01-2025,UNITED KINGDOM,100.66,Enterprise,NO
+CUST-1007,Ravi okafor,ravi[at]example.com,18-10-2024,BRAZIL,273.67,Enterprise,YES
+CUST-1249,Leilani da silva,leilani.dasilva@corp.example,26-06-2024,UNITED KINGDOM,84.38,Mid-market,YES
+CUST-1841, leilani odwyer  ,leilani.odwyer@example.com,19-06-2023,BRAZIL,122.09,Consumer,YES
+CUST-1433,Tomás odwyer,toms.odwyer@corp.example,06-04-2024,BRAZIL,268.81,Enterprise,NO
+CUST-1194,Priya costa,priya.costa@mail.test,01-08-2023,UNITED STATES,461.54,Small business,NO
+CUST-1466,Ana nakamura,ana.nakamura@mail.test,10-12-2023,UNITED STATES,341.62,Mid-market,NO
+CUST-1116,Yuki nguyen,yuki.nguyen@example.com,02-05-2025,UNITED KINGDOM,242.52,Consumer,NO
+CUST-1811,Leilani patel,leilani.patel@example.com,14-06-2024,GERMANY,136.26,Mid-market,YES
+CUST-1580,Yuki okafor,yuki.okafor@corp.example,18-08-2023,BRAZIL,189.67,Enterprise,NO
+CUST-00001248,Yuki ferrari,yuki.ferrari@mail.test,,UNITED STATES,751,Mid-market,YES
+CUST-1882,Grace ferrari,grace.ferrari@mail.test,18-09-2024,UNITED STATES,44518,Enterprise,NO
+CUST-00001854,Priya ferrari,priya.ferrari@example.com,07-05-2024,BRAZIL,65,Small business,YES
+CUST-1083,Grace brennan,grace.brennan@mail.test,27-07-2023,UNITED STATES,1652.39,Small business,YES
+CUST-00001273, grace ferrari ,GRACE.FERRARI@MAIL.TEST,19-04-2025,UNITED STATES,238.7,Small business,NO
+CUST-1146, omar patel,omar.patel@corp.example,05-04-2023,FRANCE,-999,Consumer,NO
+CUST-1028,Ravi lindqvist,ravi.lindqvist@example.com,28-05-2023,GERMANY,130.12,Enterprise,NO
+CUST-1544,Priya ferrari  ,priya.ferrari@corp.example,28-10-2024,UNITED STATES,672.66,Small business,YES
+CUST-1872, mikael weber,mikael.weber@corp.example,21-03-2025,UNITED STATES,54,Enterprise,NO
+CUST-00001552,Omar okafor,omar.okafor@corp.example,18-06-2023,UNITED KINGDOM,6630,Consumer,NO
+CUST-1937,Grace nakamura,grace.nakamura@example.com,11-03-2025,BRAZIL,268.81,Enterprise,NO
+CUST-1431,Ravi patel,ravi.patel@corp.example,03-12-2023,FRANCE,398.01,Consumer,NO
+CUST-1520,Tomás nakamura,toms.nakamura@example.com,30-01-2025,FRANCE,268.81,Enterprise,NO
+CUST-1324,Mikael patel  ,mikael.patel@example.com,21-06-2023,BRAZIL,268.81,Consumer,YES
+CUST-1740, yuki weber,yuki.weber@corp.example,21-12-2023,BRAZIL,268.81,Mid-market,YES
+CUST-00001822,Yuki kowalski,yuki.kowalski@example.com,06-03-2025,BRAZIL,268.81,Enterprise,YES
+CUST-1395,Jonas kowalski,jonas.kowalski@example.com,28-01-2024,FRANCE,223,Enterprise,YES
+CUST-1150,Omar nguyen,omar.nguyen@example.com,14-10-2024,GERMANY,11097,Small business,NO
+CUST-1885,Noor da silva,noor.dasilva@mail.test,10-04-2025,UNITED KINGDOM,46753,Consumer,YES
+CUST-00001133, leilani ferrari,leilani.ferrari@mail.test,10-04-2023,GERMANY,209,Enterprise,NO
+CUST-1915,Priya nguyen  ,priya.nguyen@mail.test,15-10-2023,GERMANY,9143,Mid-market,YES
+CUST-1237, yuki patel,yuki.patel@example.com,14-01-2025,UNITED KINGDOM,49,Mid-market,YES
+CUST-00001577,Grace odwyer,grace.odwyer@example.com,03-03-2024,FRANCE,229.74,Small business,NO
+CUST-1921,Yuki da silva,yuki.dasilva@mail.test,19-10-2023,GERMANY,268.81,Small business,YES
+CUST-00001221,Sofia weber,sofia.weber@example.com,,FRANCE,33.32,Mid-market,YES
+CUST-1270,Noor brennan,noor.brennan@corp.example,24-05-2024,GERMANY,257.74,Enterprise,NO
+CUST-1541,Aisha haddad,aisha.haddad@mail.test,28-08-2023,UNITED KINGDOM,-999,Mid-market,NO
+CUST-1836, chen costa  ,chen.costa@example.com,22-07-2023,UNITED STATES,151,Mid-market,YES
+CUST-1425,Tomás haddad,toms.haddad@corp.example,18-03-2023,UNITED STATES,89.12,Small business,NO
+CUST-1575,Sofia weber,sofia.weber@mail.test,22-03-2023,UNITED STATES,268.81,Enterprise,YES
+CUST-1802,Leilani patel,leilani.patel@corp.example,19-11-2023,FRANCE,49919,Small business,NO
+CUST-1685,Ravi costa,ravi.costa@corp.example,09-02-2024,FRANCE,268.81,Mid-market,NO
+CUST-1091,Aisha da silva,aisha.dasilva@corp.example,06-11-2024,GERMANY,304.25,Mid-market,NO
+CUST-1244,Aisha costa,aisha.costa@example.com,23-08-2023,UNITED KINGDOM,180.91,Consumer,YES
+CUST-1848,Grace costa,grace.costa@corp.example,28-04-2024,UNITED STATES,353.7,Mid-market,YES
+CUST-1045, yuki nakamura ,YUKI.NAKAMURA@CORP.EXAMPLE,28-04-2025,GERMANY,268.81,Small business,NO
+CUST-00001444, noor ferrari,noor.ferrari@corp.example,31-05-2025,GERMANY,268.81,Mid-market,YES
+CUST-1117,Mikael ferrari,mikael.ferrari@example.com,28-06-2023,GERMANY,268.81,Consumer,NO
+CUST-00001894,Mikael odwyer,mikael.odwyer@mail.test,17-12-2024,UNITED STATES,93,Consumer,YES
+CUST-1374,Jonas ferrari,jonas.ferrari@corp.example,14-10-2023,UNITED STATES,167,Enterprise,YES
+CUST-1812,Mikael da silva,mikael.dasilva@example.com,23-07-2024,UNITED STATES,53.22,Consumer,NO
+CUST-1180,Omar weber,omar.weber@mail.test,26-02-2023,UNITED KINGDOM,422.85,Small business,NO
+CUST-1336,Yuki weber,yuki.weber@corp.example,19-06-2025,BRAZIL,232,Small business,NO
+CUST-1119,Noor kowalski  ,noor.kowalski@mail.test,09-06-2025,BRAZIL,268.81,Enterprise,YES
+CUST-1418,Omar haddad,omar.haddad@example.com,03-08-2023,UNITED STATES,268.81,Small business,YES
+CUST-1694, marcus ferrari ,MARCUS.FERRARI@MAIL.TEST,14-06-2025,FRANCE,22557,Small business,YES
+CUST-1473,Noor da silva,noor.dasilva@mail.test,20-05-2024,UNITED STATES,499.6,Small business,YES
+CUST-1040,Mikael brennan,mikael.brennan@mail.test,28-09-2024,FRANCE,2787.22,Mid-market,NO
+CUST-1726,Ana ferrari,ana.ferrari@corp.example,26-12-2023,UNITED KINGDOM,392.09,Small business,YES
+CUST-1670,Ana da silva,ana.dasilva@corp.example,31-01-2025,UNITED STATES,199,Enterprise,YES
+CUST-1176, ravi costa,ravi.costa@example.com,16-02-2023,UNITED STATES,35016,Mid-market,YES
+CUST-1449,Sofia costa,sofia.costa@corp.example,22-11-2023,UNITED KINGDOM,73.04,Small business,NO
+CUST-1610,Omar nakamura  ,omar.nakamura@example.com,27-08-2024,GERMANY,261.98,Consumer,YES
+CUST-1056,Omar weber,omar.weber@example.com,17-07-2024,FRANCE,268.81,Consumer,NO
+CUST-1809,Aisha patel,aisha.patel@example.com,08-05-2023,GERMANY,268.81,Enterprise,NO
+CUST-1946,Marcus ferrari,Marcus <Marcus@example.com>,29-10-2024,FRANCE,9003,Mid-market,YES
+CUST-1452,Chen brennan,chen.brennan@mail.test,25-05-2025,BRAZIL,-999,Small business,NO
+CUST-00001168, ravi haddad,ravi.haddad@corp.example,12-06-2023,BRAZIL,268.81,Small business,YES
+CUST-1271,Ravi haddad  ,ravi.haddad@mail.test,02-10-2023,GERMANY,864.05,Enterprise,YES
+CUST-00001530,Jonas okafor,jonas.okafor@example.com,24-11-2023,UNITED STATES,223.12,Mid-market,YES
+CUST-1369,Priya weber,priya.weber@example.com,30-01-2025,FRANCE,268.81,Enterprise,YES
+CUST-1620,Yuki lindqvist,yuki.lindqvist@mail.test,,UNITED KINGDOM,114,Consumer,NO
+CUST-00001316,Ana patel,ana.patel@mail.test,21-02-2023,UNITED KINGDOM,220,Small business,YES
+CUST-1929,Ravi costa,ravi.costa@mail.test,30-04-2025,BRAZIL,85.25,Small business,NO
+CUST-1319,Ana haddad,ana.haddad@mail.test,28-05-2023,UNITED KINGDOM,268.81,Mid-market,NO
+CUST-1063,Priya odwyer,priya.odwyer@corp.example,28-04-2025,BRAZIL,137.74,Mid-market,YES
+CUST-1464,Grace kowalski,grace.kowalski@corp.example,02-08-2024,UNITED KINGDOM,255.48,Mid-market,NO
+CUST-1831,Ana haddad  ,ana.haddad@mail.test,,UNITED KINGDOM,1342.36,Enterprise,NO
+CUST-1593,Jonas nguyen,jonas.nguyen@mail.test,10-01-2025,UNITED STATES,204.94,Small business,YES
+CUST-00001088,Leilani odwyer,leilani.odwyer@corp.example,06-09-2023,UNITED KINGDOM,268.81,Consumer,NO
+CUST-00001149,Noor nguyen,noor.nguyen@mail.test,11-05-2024,UNITED STATES,195,Enterprise,YES
+CUST-00001549, jonas ferrari,jonas[at]example.com,11-12-2023,BRAZIL,268.81,Consumer,NO
+CUST-1340,Jonas okafor,jonas.okafor@example.com,28-11-2024,UNITED KINGDOM,314.01,Small business,NO
+CUST-00001050,Marcus weber,marcus.weber@example.com,03-08-2023,GERMANY,268.81,Small business,NO
+CUST-1022,Leilani patel,leilani.patel@mail.test,20-07-2023,GERMANY,244,Mid-market,YES
+CUST-1829,Priya ferrari,priya.ferrari@corp.example,07-01-2024,FRANCE,170.41,Mid-market,NO
+CUST-00001243,Priya da silva,priya.dasilva@mail.test,07-08-2023,BRAZIL,293.13,Enterprise,NO
+CUST-1182,Ravi kowalski,ravi.kowalski@example.com,01-10-2023,GERMANY,475.35,Enterprise,NO
+CUST-00001604,Jonas ferrari,jonas.ferrari@corp.example,31-12-2023,GERMANY,653.85,Consumer,NO
+CUST-00001288, priya patel,priya.patel@example.com,26-04-2024,BRAZIL,250.4,Mid-market,YES
+CUST-00001853,Sofia odwyer,sofia.odwyer@mail.test,04-04-2023,UNITED KINGDOM,295,Mid-market,NO
+CUST-1037, mikael odwyer ,MIKAEL.ODWYER@CORP.EXAMPLE,18-04-2023,BRAZIL,268.81,Mid-market,NO
+CUST-00001614,Leilani brennan,leilani.brennan@example.com,09-11-2023,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1504,Tomás nguyen,toms.nguyen@mail.test,19-11-2024,UNITED KINGDOM,657,Small business,NO
+CUST-1755,Jonas haddad,jonas.haddad@corp.example,29-03-2023,UNITED STATES,14062,Small business,NO
+CUST-1138, chen weber,chen.weber@example.com,,UNITED STATES,112.64,Mid-market,YES
+CUST-1881,Sofia nguyen,sofia.nguyen@mail.test,08-05-2025,UNITED KINGDOM,311.18,Mid-market,NO
+CUST-1844,Marcus costa,marcus.costa@example.com,08-12-2023,UNITED STATES,7101,Enterprise,NO
+CUST-00001767,Chen nakamura,chen.nakamura@corp.example,31-08-2023,FRANCE,268.81,Enterprise,NO
+CUST-1128,Yuki da silva  ,yuki.dasilva@mail.test,23-02-2025,UNITED STATES,117.83,Consumer,NO
+CUST-1774,Omar da silva  ,omar.dasilva@example.com,24-04-2025,BRAZIL,75825,Enterprise,YES
+CUST-00001631,Ana weber,ana.weber@example.com,24-12-2024,BRAZIL,268.81,Small business,YES
+CUST-00001363, sofia odwyer,sofia.odwyer@mail.test,17-06-2024,UNITED KINGDOM,616.45,Small business,YES
+CUST-1159,Ravi nguyen,ravi.nguyen@example.com,30-04-2023,UNITED KINGDOM,214.57,Consumer,NO
+CUST-1003, yuki nakamura,Yuki <Yuki@example.com>,08-05-2024,GERMANY,82.23,Consumer,YES
+CUST-1154,Mikael odwyer,mikael.odwyer@example.com,19-06-2025,BRAZIL,268.81,Small business,NO
+CUST-1886,Grace odwyer,grace.odwyer@corp.example,23-12-2024,BRAZIL,268.81,Small business,NO
+CUST-1607,Aisha da silva,aisha.dasilva@example.com,13-02-2023,GERMANY,214.17,Enterprise,YES
+CUST-00001227,Yuki weber,yuki.weber@corp.example,14-09-2024,UNITED STATES,39.19,Enterprise,NO
+CUST-1066,Leilani nakamura,leilani.nakamura@mail.test,13-07-2023,BRAZIL,457.05,Small business,NO
+CUST-1472,Yuki ferrari,yuki.ferrari@mail.test,21-09-2023,GERMANY,23784,Mid-market,YES
+CUST-00001471, priya lindqvist ,PRIYA.LINDQVIST@MAIL.TEST,29-12-2023,FRANCE,16393,Small business,NO
+CUST-00001223,Aisha odwyer,aisha.odwyer@mail.test,15-12-2024,UNITED STATES,459,Enterprise,YES
+CUST-1791,Priya okafor,priya.okafor@mail.test,23-07-2023,GERMANY,338.63,Mid-market,YES
+CUST-1584, noor kowalski ,NOOR.KOWALSKI@CORP.EXAMPLE,07-01-2023,GERMANY,357.33,Enterprise,YES
+CUST-1135,Marcus odwyer,marcus.odwyer@example.com,01-03-2025,FRANCE,27.9,Mid-market,NO
+CUST-00001827,Priya weber  ,PRIYA[at]example.com,15-02-2025,BRAZIL,183.87,Small business,YES
+CUST-1327,Noor nguyen,noor.nguyen@corp.example,02-11-2024,UNITED KINGDOM,162,Small business,NO
+CUST-1603,Marcus nakamura,marcus.nakamura@example.com,31-01-2023,UNITED STATES,58,Small business,NO
+CUST-1357,Sofia okafor,Sofia <Sofia@example.com>,09-08-2024,FRANCE,86.26,Enterprise,NO
+CUST-00001758,Ana brennan,ana.brennan@corp.example,27-03-2025,GERMANY,268.81,Consumer,YES
+CUST-00001283,Yuki nguyen  ,yuki.nguyen@corp.example,21-03-2025,GERMANY,29156,Mid-market,NO
+CUST-00001104, omar weber ,OMAR.WEBER@CORP.EXAMPLE,19-11-2023,GERMANY,268.81,Mid-market,YES
+CUST-00001382,Grace ferrari,grace.ferrari@corp.example,24-02-2025,UNITED STATES,26508,Small business,NO
+CUST-00001346,Leilani kowalski,leilani.kowalski@example.com,09-10-2023,GERMANY,30356,Enterprise,YES
+CUST-1574,Chen nguyen,chen.nguyen@example.com,27-07-2023,UNITED STATES,430.12,Enterprise,NO
+CUST-1629,Jonas nguyen,jonas.nguyen@corp.example,15-05-2023,GERMANY,117,Small business,NO
+CUST-00001440, jonas weber,jonas.weber@example.com,27-07-2023,UNITED STATES,50608,Consumer,YES
+CUST-00001709,Aisha patel,aisha.patel@example.com,28-09-2023,UNITED KINGDOM,332.69,Small business,NO
+CUST-1291,Grace ferrari,grace.ferrari@mail.test,02-12-2024,BRAZIL,184.64,Consumer,YES
+CUST-1601,Ana ferrari,ana.ferrari@example.com,02-11-2024,FRANCE,150.89,Enterprise,NO
+CUST-00001420, noor patel,noor.patel@mail.test,15-01-2025,UNITED STATES,268.81,Mid-market,YES
+CUST-1039, omar costa ,OMAR.COSTA@MAIL.TEST,03-06-2024,FRANCE,268.81,Enterprise,NO
+CUST-1596, jonas nguyen,jonas.nguyen@corp.example,29-03-2025,UNITED STATES,61.14,Consumer,NO
+CUST-1296,Jonas ferrari,jonas.ferrari@mail.test,14-07-2024,GERMANY,79.44,Enterprise,YES
+CUST-00001238, ravi lindqvist,ravi.lindqvist@corp.example,13-07-2023,UNITED STATES,119.23,Small business,YES
+CUST-1639, priya nakamura ,PRIYA[AT]EXAMPLE.COM,26-05-2025,FRANCE,175.53,Enterprise,YES
+CUST-1936,Noor nakamura,noor.nakamura@example.com,18-05-2024,UNITED KINGDOM,143.43,Mid-market,NO
+CUST-1026,Chen weber,chen.weber@corp.example,,BRAZIL,-999,Mid-market,YES
+CUST-00001038,Priya weber,priya.weber@mail.test,17-05-2024,UNITED KINGDOM,990,Enterprise,YES
+CUST-1813,Yuki kowalski,yuki.kowalski@example.com,09-08-2024,FRANCE,124.34,Enterprise,YES
+CUST-00001835,Mikael da silva,mikael.dasilva@example.com,04-12-2023,BRAZIL,161.16,Mid-market,NO
+CUST-00001598,Ana lindqvist,ana.lindqvist@example.com,24-05-2023,UNITED STATES,347.58,Enterprise,YES
+CUST-00001862,Leilani costa,Leilani@@example..com,,FRANCE,160,Mid-market,YES
+CUST-00001438,Sofia lindqvist  ,sofia.lindqvist@mail.test,20-12-2023,UNITED STATES,159.53,Enterprise,NO
+CUST-1190,Omar nakamura,omar.nakamura@mail.test,,GERMANY,97.94,Small business,YES
+CUST-1933, noor okafor,noor.okafor@mail.test,15-09-2024,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1535, mikael brennan,mikael.brennan@example.com,09-10-2023,UNITED STATES,226.5,Consumer,NO
+CUST-1103,Chen weber,chen.weber@example.com,25-02-2025,UNITED KINGDOM,268.81,Enterprise,YES
+CUST-1523,Grace nguyen,grace.nguyen@example.com,16-07-2024,UNITED STATES,19.14,Enterprise,YES
+CUST-1181,Leilani patel,leilani.patel@example.com,07-01-2024,FRANCE,386.91,Mid-market,NO
+CUST-1021,Priya da silva,priya.dasilva@mail.test,02-03-2023,BRAZIL,15220,Small business,YES
+CUST-1587,Sofia kowalski,sofia.kowalski@example.com,28-08-2024,UNITED KINGDOM,309,Small business,YES
+CUST-00001118,Jonas da silva  ,jonas.dasilva@mail.test,21-06-2023,UNITED STATES,268.81,Enterprise,YES
+CUST-00001331,Grace nguyen,grace.nguyen@corp.example,22-03-2024,UNITED STATES,355.27,Small business,NO
+CUST-00001558,Mikael odwyer,Mikael <Mikael@example.com>,20-05-2023,UNITED STATES,510.11,Small business,YES
+CUST-1918,Priya da silva,priya.dasilva@corp.example,02-05-2024,GERMANY,409.21,Enterprise,NO
+CUST-1514,Tomás nakamura,toms.nakamura@mail.test,29-10-2023,UNITED KINGDOM,674,Consumer,NO
+CUST-00001664,Ana nguyen,ana.nguyen@mail.test,02-09-2023,BRAZIL,147.54,Small business,NO
+CUST-1825, noor nakamura,noor.nakamura@corp.example,07-09-2024,UNITED STATES,652.96,Enterprise,YES
+CUST-1477,Noor da silva,noor.dasilva@mail.test,18-12-2023,BRAZIL,268.81,Small business,YES
+CUST-1286,Tomás kowalski,toms.kowalski@mail.test,08-03-2025,UNITED STATES,647,Small business,NO
+CUST-1857,Tomás patel,toms.patel@corp.example,29-04-2025,FRANCE,77,Enterprise,YES
+CUST-1786, ravi costa  ,ravi.costa@example.com,06-08-2023,UNITED STATES,334.51,Mid-market,YES
+CUST-1935,Leilani lindqvist,leilani.lindqvist@mail.test,28-08-2024,FRANCE,8469,Consumer,NO
+CUST-1660,Omar odwyer,omar.odwyer@example.com,04-09-2023,GERMANY,92,Enterprise,NO
+CUST-1379,Ravi kowalski,ravi.kowalski@mail.test,20-03-2024,UNITED STATES,18155,Enterprise,YES
+CUST-1870,Noor kowalski,noor.kowalski@corp.example,09-11-2024,UNITED STATES,15270,Enterprise,YES
+CUST-1721, mikael okafor ,MIKAEL.OKAFOR@MAIL.TEST,30-11-2023,UNITED STATES,137.67,Small business,NO
+CUST-1368, tomás ferrari,toms.ferrari@example.com,18-04-2025,BRAZIL,129.31,Mid-market,NO
+CUST-00001738,Omar odwyer,omar.odwyer@corp.example,07-06-2023,FRANCE,376.39,Enterprise,YES
+CUST-1222,Yuki da silva,yuki.dasilva@corp.example,15-02-2023,UNITED STATES,346,Mid-market,YES
+CUST-1796,Marcus da silva,marcus.dasilva@example.com,01-09-2023,UNITED STATES,986.75,Small business,NO
+CUST-00001793, priya okafor ,PRIYA.OKAFOR@CORP.EXAMPLE,08-02-2024,FRANCE,284,Consumer,YES
+CUST-1562,Leilani patel,leilani.patel@example.com,29-04-2025,UNITED STATES,268.81,Small business,YES
+CUST-1308,Jonas kowalski  ,jonas.kowalski@corp.example,27-02-2023,UNITED STATES,228,Enterprise,YES
+CUST-1453,Yuki kowalski,yuki.kowalski@example.com,15-08-2023,UNITED STATES,16832,Mid-market,YES
+CUST-1876,Ana costa,ana.costa@corp.example,05-04-2024,GERMANY,191,Consumer,YES
+CUST-1646, aisha haddad,aisha.haddad@example.com,10-07-2024,FRANCE,268.81,Small business,YES
+CUST-1203,Aisha costa,aisha.costa@corp.example,03-03-2023,GERMANY,289.09,Enterprise,YES
+CUST-1826,Sofia brennan,Sofia[at]example.com,08-05-2024,UNITED KINGDOM,258.2,Mid-market,NO
+CUST-1713,Chen odwyer,chen.odwyer@example.com,08-02-2024,UNITED STATES,22396,Enterprise,YES
+CUST-00001397, ravi costa ,RAVI.COSTA@CORP.EXAMPLE,14-07-2024,BRAZIL,442.66,Consumer,NO
+CUST-1143,Marcus haddad,marcus.haddad@example.com,23-08-2024,GERMANY,111.65,Small business,YES
+CUST-1301,Yuki okafor,yuki.okafor@example.com,29-03-2025,GERMANY,128.16,Small business,YES
+CUST-1268,Priya nguyen,priya.nguyen@corp.example,18-03-2025,UNITED STATES,268.81,Mid-market,YES
+CUST-1691,Aisha nakamura,Aisha@@example..com,20-04-2024,FRANCE,148.47,Enterprise,NO
+CUST-1788,Omar ferrari,omar.ferrari@corp.example,18-02-2023,UNITED STATES,17282,Consumer,YES
+CUST-00001376,Omar okafor,omar.okafor@corp.example,12-08-2024,GERMANY,511.99,Small business,NO
+CUST-00001309,Ravi odwyer,ravi.odwyer@example.com,21-11-2023,GERMANY,59.33,Mid-market,NO
+CUST-1338,Yuki costa,yuki.costa@mail.test,29-08-2023,UNITED KINGDOM,268.81,Consumer,YES
+CUST-1641,Marcus brennan,marcus.brennan@example.com,14-10-2024,UNITED KINGDOM,11474,Small business,NO
+CUST-00001810,Mikael brennan,mikael.brennan@mail.test,12-07-2024,GERMANY,194.62,Small business,NO
+CUST-1792,Ana da silva,ana.dasilva@example.com,04-02-2023,FRANCE,268.81,Mid-market,YES
+CUST-1058,Leilani da silva,leilani.dasilva@example.com,16-04-2024,UNITED KINGDOM,268.81,Small business,YES
+CUST-00001729,Tomás patel,toms.patel@mail.test,06-04-2023,UNITED KINGDOM,136.22,Enterprise,NO
+CUST-1498,Mikael ferrari,mikael.ferrari@mail.test,28-08-2023,UNITED KINGDOM,443.94,Mid-market,YES
+CUST-1255,Ana patel,ana.patel@corp.example,24-06-2024,UNITED STATES,64.09,Small business,NO
+CUST-00001155,Sofia kowalski,sofia.kowalski@corp.example,13-10-2024,GERMANY,48092,Enterprise,YES
+CUST-00001799,Aisha brennan,Aisha <Aisha@example.com>,03-02-2023,BRAZIL,268.81,Consumer,YES
+CUST-00001167,Ana nakamura,ana@@example..com,10-04-2023,UNITED STATES,1159.16,Mid-market,NO
+CUST-1060, aisha ferrari  ,aisha.ferrari@mail.test,09-05-2023,UNITED STATES,316.12,Enterprise,YES
+CUST-00001529,Marcus okafor,marcus.okafor@example.com,07-03-2024,UNITED STATES,114,Enterprise,NO
+CUST-00001156,Leilani weber,leilani.weber@example.com,12-03-2023,FRANCE,8172,Enterprise,NO
+CUST-00001945,Grace nguyen,grace.nguyen@example.com,22-08-2024,UNITED STATES,167,Small business,YES
+CUST-1924,Mikael kowalski,mikael.kowalski@corp.example,01-04-2023,FRANCE,124.31,Mid-market,NO
+CUST-00001838,Yuki haddad  ,yuki.haddad@corp.example,06-04-2025,GERMANY,20511,Enterprise,YES
+CUST-1926,Ravi brennan,ravi.brennan@example.com,29-05-2024,UNITED STATES,268.81,Consumer,YES
+CUST-1025,Ravi nguyen  ,ravi.nguyen@mail.test,06-04-2024,GERMANY,772,Enterprise,NO
+CUST-1771,Ravi odwyer,ravi <ravi@example.com>,31-10-2023,UNITED KINGDOM,8720,Small business,NO
+CUST-1546,Grace okafor,grace.okafor@example.com,17-03-2025,GERMANY,268.81,Small business,YES
+CUST-1503,Grace costa  ,grace.costa@corp.example,15-02-2024,BRAZIL,268.81,Enterprise,NO
+CUST-1090, grace nguyen,grace.nguyen@example.com,27-04-2023,GERMANY,732,Mid-market,YES
+CUST-1902,Noor nakamura,Noor[at]example.com,09-06-2025,GERMANY,69.95,Enterprise,YES
+CUST-1856, noor da silva,noor.dasilva@mail.test,07-01-2024,UNITED KINGDOM,396.67,Mid-market,YES
+CUST-1121,Grace weber,grace.weber@corp.example,17-12-2024,GERMANY,268.81,Mid-market,YES
+CUST-1715,Omar kowalski,omar.kowalski@corp.example,29-01-2023,GERMANY,4199,Enterprise,YES
+CUST-00001302, sofia haddad,Sofia@@example..com,24-05-2024,BRAZIL,268.81,Small business,YES
+CUST-1715, omar kowalski ,OMAR.KOWALSKI@CORP.EXAMPLE,29-01-2023,GERMANY,4199,Enterprise,YES
+CUST-1081,Tomás weber,toms.weber@mail.test,20-08-2023,BRAZIL,268.81,Mid-market,YES
+CUST-1015,Grace weber,grace.weber@mail.test,23-11-2024,UNITED STATES,431.66,Mid-market,YES
+CUST-1247, marcus ferrari,marcus.ferrari@mail.test,18-04-2023,UNITED KINGDOM,268.81,Mid-market,NO
+CUST-1616,Chen nguyen,chen.nguyen@example.com,16-06-2025,UNITED KINGDOM,552.57,Enterprise,NO
+CUST-00001273, grace ferrari,grace.ferrari@mail.test,19-04-2025,UNITED STATES,238.7,Small business,NO
+CUST-1677,Ana weber,ana.weber@corp.example,25-08-2023,UNITED STATES,268.81,Enterprise,NO
+CUST-00001623,Mikael nakamura,mikael.nakamura@corp.example,30-11-2023,GERMANY,340.89,Enterprise,NO
+CUST-00001550,Tomás ferrari,toms.ferrari@example.com,23-11-2023,GERMANY,268.81,Mid-market,YES
+CUST-1188,Chen da silva,chen.dasilva@example.com,05-01-2023,GERMANY,268.81,Small business,NO
+CUST-1253,Mikael haddad,mikael.haddad@corp.example,09-10-2024,BRAZIL,184.8,Enterprise,YES
+CUST-1671,Mikael okafor,mikael.okafor@example.com,08-02-2025,UNITED KINGDOM,66.55,Small business,NO
+CUST-1415, aisha odwyer  ,aisha.odwyer@mail.test,12-09-2023,UNITED STATES,227.52,Mid-market,YES
+CUST-1252,Tomás odwyer,toms.odwyer@example.com,14-03-2024,BRAZIL,513.32,Small business,YES
+CUST-1704,Yuki brennan  ,yuki.brennan@corp.example,12-02-2023,BRAZIL,268.81,Small business,YES
+CUST-1573,Noor okafor,noor.okafor@corp.example,,GERMANY,268.81,Enterprise,NO
+CUST-1483, tomás haddad,tomás[at]example.com,01-12-2024,UNITED KINGDOM,384.65,Enterprise,YES
+CUST-1093, jonas odwyer,jonas.odwyer@mail.test,05-03-2024,UNITED KINGDOM,178.09,Mid-market,NO
+CUST-1282, mikael weber,mikael.weber@example.com,12-07-2024,UNITED STATES,31,Mid-market,NO
+CUST-1705,Omar brennan  ,omar.brennan@example.com,20-01-2023,FRANCE,35.7,Mid-market,NO
+CUST-00001105,Priya lindqvist,priya.lindqvist@corp.example,18-08-2023,GERMANY,706.13,Small business,YES
+CUST-00001235,Mikael nguyen,mikael.nguyen@corp.example,18-12-2023,GERMANY,118.7,Small business,YES
+CUST-1823,Mikael weber,mikael.weber@example.com,13-09-2024,FRANCE,1829.96,Enterprise,NO
+CUST-1325,Tomás da silva,toms.dasilva@mail.test,14-12-2023,BRAZIL,335.01,Small business,YES
+CUST-00001735,Leilani da silva,leilani.dasilva@example.com,03-07-2023,GERMANY,268.81,Small business,YES
+CUST-00001476, tomás okafor ,TOMS.OKAFOR@EXAMPLE.COM,11-07-2023,BRAZIL,393.42,Mid-market,NO
+CUST-1606,Yuki patel,yuki.patel@corp.example,15-03-2023,FRANCE,178.87,Mid-market,YES
+CUST-1145,Aisha kowalski,aisha.kowalski@example.com,27-09-2024,FRANCE,268.81,Enterprise,NO
+CUST-1651,Jonas kowalski,jonas.kowalski@mail.test,13-10-2023,BRAZIL,173.91,Consumer,NO
+CUST-00001753,Ravi lindqvist  ,ravi.lindqvist@corp.example,28-04-2023,BRAZIL,33322,Small business,NO
+CUST-1265, tomás weber,toms.weber@mail.test,06-05-2024,UNITED KINGDOM,404,Enterprise,YES
+CUST-00001617, tomás haddad,toms.haddad@example.com,06-08-2025,GERMANY,103.44,Enterprise,NO
+CUST-1850,Priya haddad  ,priya.haddad@corp.example,05-02-2023,UNITED STATES,219.12,Small business,YES
+CUST-1765,Grace okafor,grace.okafor@example.com,12-04-2024,UNITED KINGDOM,104.78,Consumer,NO
+CUST-1581, priya kowalski,priya.kowalski@example.com,10-05-2023,UNITED KINGDOM,123.79,Mid-market,YES
+CUST-1048,Leilani lindqvist,leilani.lindqvist@mail.test,17-07-2023,UNITED STATES,187.82,Mid-market,NO
+CUST-00001157, ravi nguyen,ravi.nguyen@corp.example,23-03-2023,BRAZIL,268.81,Enterprise,YES
+CUST-1078, grace lindqvist,grace.lindqvist@corp.example,09-07-2023,UNITED KINGDOM,197.87,Enterprise,NO
+CUST-1259,Grace lindqvist,grace.lindqvist@corp.example,21-01-2024,UNITED STATES,80.7,Mid-market,NO
+CUST-1212, ravi haddad,ravi.haddad@example.com,30-03-2025,BRAZIL,177.11,Consumer,YES
+CUST-1430,Jonas kowalski,jonas.kowalski@mail.test,14-01-2025,UNITED STATES,99.25,Mid-market,YES
+CUST-1320,Ana patel,ana.patel@corp.example,25-06-2023,GERMANY,243.23,Enterprise,NO
+CUST-1584,Noor kowalski,noor.kowalski@corp.example,07-01-2023,GERMANY,357.33,Enterprise,YES
+CUST-1674,Grace nakamura,grace.nakamura@mail.test,17-05-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1484,Yuki weber  ,yuki.weber@mail.test,28-07-2024,GERMANY,1396.98,Small business,YES
+CUST-1778,Noor kowalski,noor.kowalski@mail.test,07-01-2024,BRAZIL,60600,Consumer,NO
+CUST-1144,Tomás kowalski,toms.kowalski@corp.example,22-02-2025,UNITED STATES,24987,Enterprise,NO
+CUST-1388,Noor brennan  ,noor.brennan@corp.example,21-07-2023,UNITED STATES,64607,Enterprise,YES
+CUST-00001302, sofia haddad ,SOFIA@@EXAMPLE..COM,24-05-2024,BRAZIL,268.81,Small business,YES
+CUST-1391, noor okafor ,NOOR.OKAFOR@EXAMPLE.COM,13-07-2024,UNITED KINGDOM,48.17,Enterprise,NO
+CUST-00001669,Leilani brennan,leilani.brennan@mail.test,13-03-2025,GERMANY,39.82,Enterprise,YES
+CUST-1414,Chen patel,chen.patel@example.com,31-03-2024,BRAZIL,531.27,Small business,YES
+CUST-1824,Jonas weber,jonas.weber@mail.test,19-05-2024,FRANCE,268.81,Small business,YES
+CUST-00001246,Mikael costa,mikael.costa@mail.test,31-03-2024,GERMANY,108.79,Small business,YES
+CUST-00001307,Grace lindqvist,grace.lindqvist@corp.example,21-09-2024,FRANCE,825.05,Enterprise,YES
+CUST-1200,Grace nguyen,grace.nguyen@corp.example,22-12-2024,FRANCE,141.88,Mid-market,NO
+CUST-1014, aisha costa,aisha.costa@corp.example,22-04-2025,UNITED STATES,41226,Enterprise,YES
+CUST-1578,Chen lindqvist,chen.lindqvist@corp.example,16-04-2023,UNITED STATES,268.81,Mid-market,YES
+CUST-1814,Priya weber,priya.weber@corp.example,24-12-2023,GERMANY,34202,Consumer,YES
+CUST-1405,Aisha odwyer,aisha.odwyer@mail.test,09-03-2024,UNITED STATES,398.82,Consumer,YES
+CUST-1636,Ravi odwyer,ravi.odwyer@mail.test,01-01-2023,UNITED STATES,60,Small business,NO
+CUST-1202,Ana da silva  ,ana.dasilva@example.com,03-03-2024,BRAZIL,84.45,Mid-market,NO
+CUST-1486, priya costa,priya.costa@example.com,04-11-2024,GERMANY,27781,Small business,YES
+CUST-00001948,Omar lindqvist,omar.lindqvist@mail.test,28-04-2024,GERMANY,177,Enterprise,YES
+CUST-00001585,Chen patel,chen.patel@corp.example,15-02-2024,FRANCE,268.81,Mid-market,YES
+CUST-1251, priya nakamura,priya.nakamura@example.com,08-01-2025,GERMANY,781,Enterprise,NO
+CUST-00001471,Priya lindqvist,priya.lindqvist@mail.test,29-12-2023,FRANCE,16393,Small business,NO
+CUST-1518,Marcus okafor,marcus.okafor@corp.example,13-03-2023,BRAZIL,130.82,Consumer,NO
+CUST-00001330,Yuki kowalski,yuki.kowalski@mail.test,09-05-2023,UNITED KINGDOM,214,Small business,YES
+CUST-1347,Aisha haddad  ,aisha.haddad@corp.example,20-03-2023,BRAZIL,268.81,Consumer,YES
+CUST-00001537,Aisha ferrari,aisha.ferrari@example.com,15-07-2024,BRAZIL,268.81,Enterprise,YES
+CUST-1542,Ravi weber,ravi@@example..com,24-08-2024,UNITED STATES,-999,Mid-market,YES
+CUST-1158,Yuki weber,yuki.weber@corp.example,11-07-2023,UNITED KINGDOM,105,Enterprise,YES
+CUST-1869,Mikael nguyen,mikael.nguyen@example.com,05-03-2023,UNITED KINGDOM,108798,Small business,YES
+CUST-1044, jonas ferrari,jonas.ferrari@corp.example,04-05-2024,FRANCE,487,Enterprise,YES
+CUST-1229, tomás brennan,toms.brennan@example.com,28-01-2023,UNITED STATES,268.81,Consumer,NO
+CUST-00001576, chen lindqvist,chen.lindqvist@example.com,22-03-2023,UNITED STATES,148,Mid-market,YES
+CUST-1893,Jonas nguyen,jonas.nguyen@example.com,30-06-2023,UNITED KINGDOM,205.11,Small business,NO
+CUST-1867,Marcus da silva,marcus.dasilva@corp.example,28-10-2024,UNITED STATES,268.81,Mid-market,NO
+CUST-1370,Grace lindqvist,grace.lindqvist@example.com,07-05-2025,UNITED KINGDOM,378.54,Small business,NO
+CUST-1548,Priya costa  ,priya.costa@corp.example,02-10-2024,UNITED STATES,5726,Mid-market,NO
+CUST-1930,Marcus da silva,marcus.dasilva@mail.test,11-06-2025,FRANCE,952,Mid-market,NO
+CUST-00001365,Chen patel,chen.patel@mail.test,03-11-2024,UNITED KINGDOM,406,Small business,YES
+CUST-00001422,Ravi kowalski,ravi.kowalski@example.com,11-08-2023,UNITED STATES,220.18,Consumer,NO
+CUST-1210,Noor odwyer,noor.odwyer@mail.test,21-03-2024,UNITED STATES,268.81,Small business,NO
+CUST-1784,Ana da silva,ana.dasilva@corp.example,31-03-2025,GERMANY,268.81,Small business,NO
+CUST-1312,Priya weber,PRIYA <PRIYA@example.com>,12-11-2023,FRANCE,40.56,Consumer,NO
+CUST-00001032, marcus lindqvist  ,marcus.lindqvist@mail.test,09-02-2024,UNITED KINGDOM,514.98,Small business,YES
+CUST-1046,Tomás okafor,toms.okafor@corp.example,19-04-2025,UNITED STATES,6426,Small business,NO
+CUST-1468,Omar okafor  ,omar.okafor@mail.test,18-04-2024,BRAZIL,14805,Consumer,NO
+CUST-1318,Mikael costa,mikael.costa@example.com,28-04-2024,UNITED STATES,291.92,Mid-market,YES
+CUST-1695,Grace da silva,grace.dasilva@example.com,08-03-2023,UNITED STATES,85.97,Enterprise,NO
+CUST-00001925,Ravi kowalski,ravi.kowalski@example.com,02-06-2025,UNITED KINGDOM,357.91,Small business,YES
+CUST-00001586,Noor patel,noor.patel@example.com,30-01-2025,GERMANY,27494,Mid-market,NO
+CUST-00001690,Yuki nakamura,yuki.nakamura@example.com,01-06-2023,UNITED KINGDOM,379,Mid-market,NO
+CUST-1950,Omar brennan,omar.brennan@corp.example,22-02-2025,UNITED STATES,164.25,Consumer,NO
+CUST-1172,Leilani ferrari,leilani.ferrari@corp.example,10-06-2024,UNITED STATES,236,Consumer,NO
+CUST-1730,Priya nakamura,priya.nakamura@mail.test,27-05-2024,GERMANY,73.85,Mid-market,NO
+CUST-1408,Ravi haddad,ravi.haddad@corp.example,17-11-2024,BRAZIL,325,Enterprise,NO
+CUST-00001556,Ana lindqvist,ana.lindqvist@mail.test,15-12-2024,UNITED STATES,227.36,Enterprise,NO
+CUST-00001254, ravi nguyen,ravi.nguyen@example.com,15-07-2023,GERMANY,173,Mid-market,YES
+CUST-00001638,Ana lindqvist,ana.lindqvist@mail.test,05-02-2023,UNITED STATES,105.23,Consumer,YES
+CUST-1416,Leilani lindqvist,leilani.lindqvist@example.com,01-11-2023,UNITED KINGDOM,730,Small business,YES
+CUST-00001109,Priya weber,priya.weber@example.com,19-01-2023,FRANCE,152.15,Mid-market,YES
+CUST-1511,Sofia odwyer  ,sofia.odwyer@example.com,04-01-2024,UNITED KINGDOM,268.81,Mid-market,NO
+CUST-1435,Ravi haddad,ravi.haddad@example.com,09-01-2024,FRANCE,195.53,Consumer,YES
+CUST-1649,Grace nguyen,grace.nguyen@example.com,03-11-2023,GERMANY,780.15,Small business,YES
+CUST-1909,Leilani nakamura,leilani.nakamura@corp.example,28-01-2025,GERMANY,268.81,Enterprise,YES
+CUST-1040, mikael brennan ,MIKAEL.BRENNAN@MAIL.TEST,28-09-2024,FRANCE,2787.22,Mid-market,NO
+CUST-1242,Grace haddad,grace.haddad@corp.example,14-06-2023,GERMANY,268.81,Consumer,YES
+CUST-1245,Sofia costa,Sofia <Sofia@example.com>,28-04-2023,GERMANY,461.76,Consumer,YES
+CUST-1165,Mikael okafor,mikael.okafor@mail.test,13-10-2023,UNITED STATES,79.63,Consumer,YES
+CUST-1195,Aisha weber,aisha.weber@example.com,29-10-2023,GERMANY,113.29,Small business,YES
+CUST-1892,Jonas da silva,jonas.dasilva@mail.test,19-04-2025,UNITED KINGDOM,79.55,Small business,YES
+CUST-1023, omar haddad  ,omar.haddad@mail.test,10-11-2024,BRAZIL,849,Mid-market,YES
+CUST-1806,Marcus lindqvist  ,marcus.lindqvist@example.com,20-02-2023,GERMANY,102.81,Enterprise,YES
+CUST-00001794,Priya ferrari,priya.ferrari@example.com,25-04-2025,GERMANY,78491,Enterprise,YES
+CUST-1009, leilani da silva,leilani.dasilva@corp.example,28-03-2025,UNITED STATES,81,Consumer,NO
+CUST-00001785,Grace da silva,grace.dasilva@mail.test,16-09-2024,UNITED STATES,93,Small business,YES
+CUST-00001012,Grace nakamura,grace.nakamura@corp.example,04-01-2023,UNITED STATES,268.81,Enterprise,YES
+CUST-1114,Grace kowalski,Grace[at]example.com,16-04-2025,FRANCE,191.17,Consumer,YES
+CUST-1275,Leilani ferrari,leilani.ferrari@corp.example,10-08-2023,UNITED KINGDOM,268.81,Consumer,YES
+CUST-1213,Noor odwyer  ,noor.odwyer@mail.test,01-01-2024,GERMANY,268.81,Consumer,YES
+CUST-1366,Chen lindqvist,chen.lindqvist@corp.example,06-02-2024,UNITED STATES,656,Mid-market,YES
+CUST-1762,Yuki odwyer,yuki.odwyer@example.com,26-12-2023,FRANCE,243,Small business,YES
+CUST-1934, yuki nakamura,yuki.nakamura@corp.example,26-04-2025,GERMANY,268.81,Small business,NO
+CUST-1524,Ravi costa,ravi.costa@example.com,29-11-2024,BRAZIL,180.42,Consumer,YES
+CUST-1837,Priya nguyen,priya.nguyen@corp.example,11-12-2023,UNITED KINGDOM,34025,Mid-market,NO
+CUST-1748,Jonas nakamura,jonas.nakamura@corp.example,24-06-2023,UNITED KINGDOM,268.81,Small business,NO
+CUST-1539, sofia brennan,sofia.brennan@corp.example,25-10-2023,GERMANY,128.32,Small business,NO
+CUST-00001505,Ravi patel,ravi.patel@mail.test,,GERMANY,323.86,Small business,YES
+CUST-1665,Chen costa,chen.costa@mail.test,30-08-2024,UNITED KINGDOM,268.81,Small business,NO
+CUST-00001718,Ravi da silva  ,ravi <ravi@example.com>,25-05-2024,FRANCE,17.9,Mid-market,NO
+CUST-1632,Noor lindqvist  ,noor.lindqvist@example.com,31-05-2023,UNITED KINGDOM,167.24,Mid-market,YES
+CUST-1839, chen kowalski,chen.kowalski@mail.test,13-11-2024,UNITED STATES,252,Small business,YES
+CUST-1756,Marcus nakamura  ,marcus.nakamura@corp.example,18-01-2025,BRAZIL,36462,Consumer,NO
+CUST-00001174,Omar brennan,omar.brennan@corp.example,01-05-2024,UNITED STATES,241.56,Small business,YES
+CUST-1736,Yuki haddad,yuki.haddad@example.com,06-10-2024,UNITED STATES,87,Small business,YES
+CUST-1011,Priya da silva,priya.dasilva@example.com,08-10-2023,UNITED STATES,137,Small business,NO
+CUST-00001215,Marcus costa,marcus.costa@example.com,16-05-2025,UNITED KINGDOM,540,Enterprise,YES
+CUST-1615, aisha ferrari ,AISHA.FERRARI@EXAMPLE.COM,11-12-2024,FRANCE,77,Enterprise,YES
+CUST-1719,Ravi odwyer,ravi.odwyer@mail.test,14-07-2023,GERMANY,199,Enterprise,YES
+CUST-1840, tomás weber,toms.weber@corp.example,14-01-2025,UNITED STATES,268.81,Enterprise,YES
+CUST-1567,Leilani da silva,leilani.dasilva@example.com,31-08-2024,UNITED STATES,70.23,Enterprise,NO
+CUST-1701,Sofia nakamura,sofia.nakamura@mail.test,20-01-2024,UNITED KINGDOM,856,Small business,NO
+CUST-1526,Chen ferrari,chen.ferrari@corp.example,07-02-2024,GERMANY,268.81,Enterprise,NO
+CUST-1659,Ana haddad,ana.haddad@example.com,18-03-2025,UNITED KINGDOM,647,Mid-market,NO
+CUST-00001509,Leilani kowalski,leilani.kowalski@corp.example,22-05-2025,UNITED STATES,265.75,Enterprise,YES
+CUST-1622,Tomás okafor,toms.okafor@corp.example,21-11-2023,BRAZIL,268.81,Small business,YES
+CUST-00001681,Aisha okafor,Aisha@@example..com,15-07-2024,FRANCE,268.81,Enterprise,YES
+CUST-1360,Aisha nguyen,aisha.nguyen@example.com,09-01-2023,UNITED STATES,358.7,Enterprise,NO
+CUST-1193,Grace weber,grace.weber@example.com,17-06-2025,UNITED STATES,417,Small business,NO
+CUST-00001139, omar weber,omar.weber@mail.test,12-02-2024,UNITED KINGDOM,152.76,Consumer,YES
+CUST-00001042,Sofia nakamura,sofia.nakamura@example.com,30-03-2025,FRANCE,9114,Enterprise,YES
+CUST-1795,Aisha okafor,aisha.okafor@mail.test,18-06-2023,BRAZIL,212.37,Mid-market,NO
+CUST-1807,Ana brennan,ana.brennan@example.com,14-12-2023,UNITED KINGDOM,715.23,Enterprise,NO
+CUST-00001189,Ravi nakamura,ravi@@example..com,04-01-2023,BRAZIL,85.05,Enterprise,NO
+CUST-1905,Aisha ferrari,aisha.ferrari@mail.test,21-09-2024,GERMANY,42920,Consumer,NO
+CUST-1183,Aisha odwyer,aisha.odwyer@corp.example,24-02-2024,FRANCE,168.1,Enterprise,YES
+CUST-1518, marcus okafor ,MARCUS.OKAFOR@CORP.EXAMPLE,13-03-2023,BRAZIL,130.82,Consumer,NO
+CUST-00001095, ana weber,ana.weber@example.com,21-05-2024,BRAZIL,399.79,Small business,NO
+CUST-1890,Chen kowalski,chen.kowalski@example.com,05-05-2025,BRAZIL,268.81,Small business,NO
+CUST-1111, priya weber,priya.weber@example.com,07-07-2024,UNITED STATES,364.88,Enterprise,YES
+CUST-1633,Mikael costa,mikael.costa@corp.example,26-11-2023,UNITED KINGDOM,22857,Enterprise,NO
+CUST-1398,Grace haddad,grace.haddad@example.com,01-03-2023,BRAZIL,484.31,Enterprise,NO
+CUST-1569,Mikael okafor,Mikael@@example..com,07-03-2025,UNITED STATES,150,Small business,YES
+CUST-1760,Omar nakamura,omar <omar@example.com>,26-09-2023,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1351,Chen costa,chen.costa@corp.example,04-12-2023,GERMANY,144,Small business,NO
+CUST-00001527,Sofia nakamura,Sofia[at]example.com,20-07-2024,GERMANY,681.52,Small business,NO
+CUST-00001560,Chen nakamura  ,chen.nakamura@example.com,23-09-2024,UNITED STATES,369,Enterprise,NO
+CUST-00001717,Sofia da silva,Sofia[at]example.com,10-04-2023,GERMANY,268.81,Enterprise,YES
+CUST-1465,Mikael ferrari  ,mikael.ferrari@corp.example,30-11-2024,GERMANY,161.19,Mid-market,YES
+CUST-1349,Noor nakamura,noor.nakamura@mail.test,04-09-2024,UNITED STATES,72.38,Mid-market,YES
+CUST-1490,Leilani nakamura,leilani.nakamura@corp.example,23-10-2024,FRANCE,268.81,Enterprise,NO
+CUST-1920,Tomás brennan,toms.brennan@corp.example,07-06-2024,BRAZIL,268.81,Small business,NO
+CUST-1299,Aisha patel,aisha.patel@mail.test,30-11-2024,BRAZIL,302,Small business,NO
+CUST-1889, aisha haddad,aisha.haddad@example.com,31-05-2023,BRAZIL,16075,Enterprise,YES
+CUST-1260,Tomás patel,toms.patel@corp.example,23-10-2023,UNITED KINGDOM,50912,Mid-market,YES
+CUST-1803,Omar lindqvist,omar.lindqvist@example.com,25-04-2025,UNITED KINGDOM,152.16,Small business,YES
+CUST-1124,Ravi brennan,ravi.brennan@corp.example,07-08-2024,FRANCE,39989,Mid-market,NO
+CUST-1522,Leilani haddad,leilani.haddad@corp.example,09-05-2024,GERMANY,268.81,Small business,NO
+CUST-00001501,Ravi lindqvist  ,ravi.lindqvist@corp.example,20-07-2023,FRANCE,19443,Small business,NO
+CUST-1035, aisha brennan ,AISHA.BRENNAN@CORP.EXAMPLE,07-02-2024,UNITED STATES,236,Small business,NO
+CUST-1345,Ravi okafor,ravi.okafor@mail.test,19-06-2024,FRANCE,528,Consumer,YES
+CUST-00001276,Omar da silva  ,omar.dasilva@example.com,01-12-2023,GERMANY,123.39,Consumer,NO
+CUST-1239, tomás odwyer,toms.odwyer@corp.example,09-09-2023,FRANCE,388,Consumer,NO
+CUST-1226,Sofia nakamura,sofia.nakamura@mail.test,21-04-2025,BRAZIL,226.11,Mid-market,YES
+CUST-00001611,Leilani ferrari,leilani.ferrari@example.com,23-03-2024,UNITED STATES,166.9,Small business,YES
+CUST-1727,Yuki lindqvist,yuki.lindqvist@example.com,26-10-2024,BRAZIL,9356,Small business,NO
+CUST-1214, omar weber,omar.weber@mail.test,09-03-2024,FRANCE,62538,Mid-market,YES
+CUST-1898,Ana weber,ana.weber@corp.example,17-08-2023,UNITED STATES,68.43,Mid-market,NO
+CUST-1516,Aisha costa,aisha.costa@mail.test,13-06-2023,GERMANY,133.84,Small business,YES
+CUST-1029,Priya nguyen,priya.nguyen@mail.test,14-01-2024,BRAZIL,268.81,Consumer,NO
+CUST-1314,Sofia nakamura,sofia.nakamura@example.com,28-03-2024,UNITED STATES,41543,Small business,YES
+CUST-1391,Noor okafor,noor.okafor@example.com,13-07-2024,UNITED KINGDOM,48.17,Enterprise,NO
+CUST-00001407,Ravi da silva,ravi.dasilva@example.com,12-07-2023,BRAZIL,522,Consumer,YES
+CUST-1944,Noor weber,noor.weber@example.com,16-11-2023,UNITED STATES,617.1,Mid-market,NO
+CUST-1687,Jonas nguyen  ,jonas.nguyen@corp.example,07-06-2024,BRAZIL,59.23,Small business,YES
+CUST-1216,Sofia okafor,sofia.okafor@mail.test,26-09-2024,UNITED KINGDOM,48,Mid-market,YES
+CUST-1830,Marcus patel,marcus.patel@mail.test,02-04-2023,UNITED STATES,262.67,Mid-market,YES
+CUST-1177,Ravi kowalski,ravi.kowalski@mail.test,26-12-2023,UNITED KINGDOM,198,Consumer,NO
+CUST-1315,Aisha brennan  ,aisha.brennan@mail.test,04-06-2023,BRAZIL,118.53,Enterprise,NO
+CUST-00001916,Yuki brennan  ,yuki.brennan@corp.example,19-06-2024,GERMANY,274.11,Enterprise,NO
+CUST-1873,Tomás nakamura,toms.nakamura@corp.example,16-07-2023,GERMANY,355.78,Mid-market,YES
+CUST-1772, noor haddad,noor.haddad@example.com,23-08-2024,UNITED STATES,659.43,Enterprise,NO
+CUST-1262, aisha haddad,aisha.haddad@mail.test,17-06-2024,GERMANY,11603,Mid-market,NO
+CUST-1462,Sofia da silva,sofia.dasilva@corp.example,14-01-2023,GERMANY,15492,Consumer,NO
+CUST-1866,Grace brennan,grace.brennan@mail.test,19-06-2025,UNITED STATES,276.94,Mid-market,NO
+CUST-1808,Mikael ferrari,mikael.ferrari@mail.test,,FRANCE,352.34,Small business,YES
+CUST-1482,Noor lindqvist,noor.lindqvist@corp.example,05-02-2025,UNITED STATES,509.13,Enterprise,YES
+CUST-1080,Ravi nakamura,ravi.nakamura@corp.example,16-11-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1493, ravi da silva  ,ravi.dasilva@mail.test,08-04-2023,UNITED STATES,747.48,Mid-market,YES
+CUST-1089, ana odwyer,ana.odwyer@mail.test,24-07-2024,UNITED STATES,-999,Mid-market,NO
+CUST-1094,Ana lindqvist  ,ana.lindqvist@corp.example,26-08-2024,FRANCE,268.81,Small business,YES
+CUST-00001463,Sofia kowalski,sofia.kowalski@corp.example,28-02-2023,GERMANY,80,Small business,YES
+CUST-00001793,Priya okafor,priya.okafor@corp.example,08-02-2024,FRANCE,284,Consumer,YES
+CUST-00001289,Grace patel,grace.patel@mail.test,16-05-2025,UNITED KINGDOM,268.81,Small business,NO
+CUST-1134,Omar costa,omar.costa@mail.test,11-02-2025,FRANCE,38,Consumer,NO
+CUST-00001895,Grace ferrari,grace.ferrari@mail.test,22-01-2023,FRANCE,12780,Small business,YES
+CUST-00001545,Noor ferrari,noor.ferrari@corp.example,09-10-2024,UNITED STATES,268.81,Enterprise,YES
+CUST-1551,Leilani weber,leilani.weber@example.com,03-10-2024,FRANCE,192.34,Small business,NO
+CUST-1211,Ana okafor  ,ana.okafor@example.com,,GERMANY,56.39,Small business,YES
+CUST-1500,Omar brennan,omar.brennan@mail.test,27-06-2024,UNITED STATES,92.68,Enterprise,NO
+CUST-00001655,Chen ferrari,chen.ferrari@mail.test,31-12-2024,GERMANY,125,Small business,NO
+CUST-1153,Sofia haddad,sofia.haddad@mail.test,08-02-2025,UNITED STATES,337.65,Small business,NO
+CUST-00001310,Noor kowalski,noor.kowalski@example.com,07-03-2023,FRANCE,383,Enterprise,NO
+CUST-1297,Sofia ferrari,sofia.ferrari@corp.example,27-03-2025,UNITED STATES,98.61,Mid-market,NO
+CUST-1324, mikael patel ,MIKAEL.PATEL@EXAMPLE.COM,21-06-2023,BRAZIL,268.81,Consumer,YES
+CUST-1005,Priya patel,priya.patel@example.com,05-01-2025,FRANCE,159,Enterprise,NO
+CUST-1122,Jonas costa,jonas.costa@example.com,13-09-2024,UNITED STATES,577,Enterprise,YES
+CUST-1564,Leilani costa,leilani.costa@mail.test,24-01-2023,UNITED STATES,540,Mid-market,NO
+CUST-1741,Marcus haddad  ,marcus.haddad@example.com,18-02-2024,GERMANY,177.88,Consumer,NO
+CUST-1317,Tomás da silva,tomás <tomás@example.com>,10-06-2025,UNITED KINGDOM,1369.31,Consumer,NO
+CUST-00001428, ravi nakamura  ,ravi.nakamura@corp.example,26-01-2023,FRANCE,41.63,Mid-market,NO
+CUST-00001711,Yuki odwyer,Yuki[at]example.com,19-06-2023,UNITED STATES,664.33,Mid-market,YES
+CUST-1067,Leilani haddad,leilani.haddad@example.com,21-03-2024,UNITED KINGDOM,4385,Consumer,YES
+CUST-00001752,Sofia kowalski,sofia.kowalski@corp.example,05-02-2023,UNITED KINGDOM,14029,Small business,YES
+CUST-00001899,Priya ferrari,priya.ferrari@mail.test,05-04-2023,FRANCE,7266,Small business,NO
+CUST-00001236,Omar okafor,omar.okafor@mail.test,07-08-2023,UNITED STATES,2425.47,Small business,NO
+CUST-1267,Priya brennan,priya.brennan@corp.example,11-03-2023,UNITED STATES,2075.62,Enterprise,YES
+CUST-00001952,Aisha haddad,aisha.haddad@mail.test,,UNITED KINGDOM,268.81,Enterprise,YES
+CUST-00001488,Leilani odwyer,leilani.odwyer@example.com,18-03-2025,UNITED STATES,62.44,Consumer,YES
+CUST-00001779,Ravi nakamura,ravi.nakamura@mail.test,17-05-2023,UNITED KINGDOM,212,Enterprise,NO
+CUST-1515,Chen odwyer,chen.odwyer@example.com,25-11-2024,UNITED STATES,2428,Enterprise,NO
+CUST-1912, ana nakamura ,ANA.NAKAMURA@MAIL.TEST,27-09-2023,UNITED KINGDOM,258.31,Small business,NO
+CUST-1922, mikael odwyer,mikael.odwyer@corp.example,30-03-2024,UNITED STATES,268.81,Consumer,NO
+CUST-1391, noor okafor ,NOOR.OKAFOR@EXAMPLE.COM,13-07-2024,UNITED KINGDOM,48.17,Enterprise,NO
+CUST-1191,Jonas nguyen,jonas.nguyen@corp.example,04-03-2024,GERMANY,268.81,Consumer,NO
+CUST-1800,Priya ferrari,priya.ferrari@mail.test,30-03-2023,UNITED KINGDOM,8376,Consumer,NO
+CUST-1130,Leilani lindqvist,leilani.lindqvist@example.com,27-02-2024,FRANCE,107.89,Consumer,NO
+CUST-1818,Yuki da silva,Yuki <Yuki@example.com>,27-01-2024,BRAZIL,268.81,Enterprise,YES
+CUST-1908,Sofia haddad,sofia.haddad@corp.example,22-11-2023,FRANCE,630,Small business,YES
+CUST-1855,Tomás da silva,toms.dasilva@corp.example,15-11-2023,UNITED STATES,268.81,Enterprise,NO
+CUST-1411,Leilani kowalski,leilani.kowalski@example.com,15-06-2023,UNITED KINGDOM,80.16,Mid-market,YES
+CUST-1754,Priya da silva,PRIYA <PRIYA@example.com>,20-02-2023,BRAZIL,20,Consumer,NO
+CUST-1280,Omar odwyer,omar.odwyer@mail.test,11-09-2024,UNITED KINGDOM,607,Consumer,YES
+CUST-1311,Noor da silva,noor.dasilva@corp.example,04-09-2024,GERMANY,305.64,Consumer,NO
+CUST-1847,Ana brennan  ,ana.brennan@example.com,06-04-2023,UNITED STATES,154,Mid-market,YES
+CUST-00001131,Leilani okafor,leilani.okafor@example.com,23-02-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1650, leilani nguyen,Leilani[at]example.com,28-02-2025,UNITED KINGDOM,213.54,Mid-market,YES
+CUST-1148, chen nakamura,chen.nakamura@mail.test,26-11-2024,UNITED STATES,948.21,Consumer,YES
+CUST-00001410,Omar ferrari,omar.ferrari@mail.test,28-01-2023,GERMANY,147.81,Small business,YES
+CUST-00001645,Grace lindqvist,grace.lindqvist@example.com,24-10-2023,GERMANY,134.36,Enterprise,YES
+CUST-1424, marcus odwyer,marcus.odwyer@mail.test,13-08-2024,FRANCE,654,Mid-market,YES
+CUST-00001781,Grace nakamura,grace.nakamura@mail.test,17-09-2023,UNITED KINGDOM,198.45,Small business,YES
+CUST-00001065,Grace da silva,grace.dasilva@example.com,12-04-2025,GERMANY,302.8,Consumer,YES
+CUST-1230,Ravi weber,ravi.weber@corp.example,16-04-2023,FRANCE,268.81,Small business,YES
+CUST-1543,Noor costa,noor.costa@corp.example,12-05-2023,BRAZIL,280,Enterprise,YES
+CUST-1364,Tomás weber,toms.weber@mail.test,05-05-2024,UNITED STATES,467.29,Enterprise,NO
+CUST-00001298, jonas patel,jonas.patel@example.com,05-06-2024,UNITED STATES,268.81,Enterprise,NO
+CUST-1904,Jonas ferrari,jonas <jonas@example.com>,15-05-2023,FRANCE,6132,Mid-market,YES
+CUST-1269, yuki haddad ,YUKI.HADDAD@EXAMPLE.COM,21-06-2023,UNITED KINGDOM,171623,Mid-market,YES
+CUST-1052,Leilani da silva  ,Leilani[at]example.com,,FRANCE,32181,Consumer,NO
+CUST-00001423, mikael brennan ,MIKAEL[AT]EXAMPLE.COM,19-11-2024,BRAZIL,268.81,Small business,YES
+CUST-1385, marcus ferrari,marcus.ferrari@corp.example,19-05-2023,FRANCE,552.73,Mid-market,NO
+CUST-1412,Priya haddad  ,priya.haddad@corp.example,13-09-2024,UNITED STATES,45764,Mid-market,YES
+CUST-1457,Noor ferrari,noor.ferrari@example.com,20-03-2023,UNITED STATES,60.71,Consumer,YES
+CUST-1098,Grace weber,grace.weber@example.com,16-04-2023,UNITED STATES,27025,Consumer,NO
+CUST-00001938, grace brennan,grace.brennan@corp.example,28-11-2024,UNITED KINGDOM,114.26,Consumer,NO
+CUST-00001725,Marcus odwyer,marcus.odwyer@example.com,12-06-2023,UNITED KINGDOM,106,Small business,NO
+CUST-1491,Grace nakamura,grace.nakamura@mail.test,08-02-2023,UNITED KINGDOM,23990,Mid-market,YES
+CUST-1274,Priya nakamura,priya.nakamura@corp.example,12-02-2023,GERMANY,20.62,Mid-market,YES
+CUST-1371,Marcus lindqvist,marcus.lindqvist@corp.example,10-05-2025,GERMANY,125.48,Enterprise,YES
+CUST-1879,Ravi costa,ravi.costa@example.com,05-05-2025,UNITED STATES,268.81,Enterprise,YES
+CUST-1292,Marcus costa,marcus.costa@corp.example,06-11-2023,UNITED KINGDOM,1328.99,Mid-market,NO
+CUST-1790,Chen haddad,chen.haddad@example.com,11-09-2024,BRAZIL,268.81,Enterprise,NO
+CUST-00001104,Omar weber  ,omar.weber@corp.example,19-11-2023,GERMANY,268.81,Mid-market,YES
+CUST-1571,Ravi nakamura  ,ravi.nakamura@mail.test,04-02-2025,UNITED KINGDOM,268.81,Consumer,NO
+CUST-1643,Chen haddad,chen.haddad@mail.test,01-04-2023,FRANCE,268.81,Small business,NO
+CUST-00001178,Ravi nakamura,ravi.nakamura@example.com,18-11-2024,GERMANY,139.64,Small business,NO
+CUST-1534,Yuki nguyen  ,yuki.nguyen@mail.test,28-10-2023,UNITED KINGDOM,110.12,Small business,NO
+CUST-1939,Leilani odwyer,leilani.odwyer@mail.test,10-11-2023,BRAZIL,234.13,Mid-market,YES
+CUST-00001676,Priya nakamura,priya.nakamura@example.com,01-11-2024,FRANCE,268.81,Consumer,YES
+CUST-1413, ana okafor,ana.okafor@mail.test,24-11-2024,UNITED STATES,147.59,Small business,YES
+CUST-1519, ravi nakamura ,RAVI.NAKAMURA@CORP.EXAMPLE,27-09-2024,GERMANY,49.63,Small business,YES
+CUST-1773,Leilani ferrari,leilani.ferrari@example.com,03-10-2023,BRAZIL,456.83,Mid-market,YES
+CUST-1287,Ana brennan  ,ana.brennan@example.com,27-11-2024,UNITED KINGDOM,268.81,Small business,YES
+CUST-00001507,Grace da silva,grace.dasilva@mail.test,03-07-2023,BRAZIL,11556,Enterprise,YES
+CUST-1615,Aisha ferrari,aisha.ferrari@example.com,11-12-2024,FRANCE,77,Enterprise,YES
+CUST-00001723,Chen weber,chen.weber@example.com,05-12-2024,UNITED STATES,11184,Mid-market,YES
+CUST-00001197,Noor da silva,noor.dasilva@example.com,23-04-2024,GERMANY,391.69,Mid-market,NO
+CUST-00001362,Aisha nguyen,aisha.nguyen@corp.example,31-07-2023,GERMANY,2506.74,Small business,NO
+CUST-1521, tomás okafor,toms.okafor@mail.test,25-04-2025,BRAZIL,164,Enterprise,YES
+CUST-1392,Ana nguyen,ana.nguyen@mail.test,02-02-2025,BRAZIL,165.12,Enterprise,YES
+CUST-1076,Tomás odwyer,toms.odwyer@mail.test,15-01-2025,UNITED STATES,117.62,Mid-market,YES
+CUST-1817,Chen brennan  ,chen.brennan@corp.example,06-06-2024,UNITED STATES,268.81,Consumer,YES
+CUST-1334,Omar costa,omar.costa@corp.example,29-05-2025,UNITED STATES,268.81,Consumer,NO
+CUST-1426,Jonas ferrari,jonas.ferrari@corp.example,27-08-2024,UNITED KINGDOM,434.33,Small business,NO
+CUST-00001101,Aisha odwyer  ,aisha.odwyer@mail.test,26-09-2024,BRAZIL,355,Small business,YES
+CUST-1635,Aisha nakamura,aisha.nakamura@mail.test,07-02-2024,UNITED STATES,491.19,Mid-market,YES
+CUST-1819,Mikael da silva,mikael.dasilva@example.com,07-07-2024,GERMANY,268.81,Consumer,YES
+CUST-1459,Yuki patel,yuki.patel@example.com,12-11-2023,BRAZIL,51,Enterprise,YES
+CUST-1353,Omar patel,omar.patel@mail.test,17-02-2024,FRANCE,268.81,Small business,YES
+CUST-1878,Ravi kowalski,ravi.kowalski@example.com,18-04-2024,UNITED STATES,-999,Small business,YES
+CUST-1608,Ana nguyen,ana.nguyen@mail.test,24-03-2025,GERMANY,19848,Mid-market,YES
+CUST-1417, ravi costa,ravi.costa@mail.test,21-04-2024,UNITED STATES,72,Small business,NO
+CUST-1335,Aisha weber,aisha.weber@corp.example,18-11-2024,BRAZIL,68.35,Small business,NO
+CUST-00001423,Mikael brennan,Mikael[at]example.com,19-11-2024,BRAZIL,268.81,Small business,YES
+CUST-1293,Leilani da silva,leilani.dasilva@example.com,12-04-2023,FRANCE,9320,Enterprise,NO
+CUST-1883,Noor brennan,noor.brennan@mail.test,09-09-2024,BRAZIL,877,Consumer,YES
+CUST-1390,Aisha patel,aisha.patel@mail.test,25-01-2024,UNITED STATES,122,Small business,NO
+CUST-1833,Yuki nakamura,yuki.nakamura@mail.test,05-08-2024,UNITED KINGDOM,77921,Enterprise,NO
+CUST-00001261,Sofia odwyer  ,sofia.odwyer@corp.example,07-10-2024,BRAZIL,629,Small business,YES
+CUST-1470,Noor nakamura,noor.nakamura@mail.test,17-12-2023,GERMANY,268.81,Enterprise,NO
+CUST-1605,Chen ferrari,chen.ferrari@mail.test,03-05-2024,BRAZIL,87.81,Small business,NO
+CUST-1579,Tomás ferrari  ,toms.ferrari@example.com,11-10-2023,UNITED STATES,104.4,Mid-market,YES
+CUST-1955,Chen costa,chen.costa@mail.test,26-06-2024,UNITED STATES,212.38,Enterprise,YES
+CUST-00001224,Leilani okafor,leilani.okafor@mail.test,06-05-2023,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1739,Sofia odwyer,sofia.odwyer@corp.example,05-02-2023,UNITED STATES,708.3,Enterprise,YES
+CUST-1845,Priya costa,priya.costa@example.com,07-12-2024,UNITED STATES,153,Mid-market,NO
+CUST-1205,Sofia ferrari  ,sofia.ferrari@example.com,30-09-2023,UNITED STATES,476.65,Consumer,NO
+CUST-00001013, chen patel,chen.patel@corp.example,20-03-2023,UNITED STATES,220,Small business,NO
+CUST-1272,Leilani costa,leilani.costa@example.com,29-07-2024,FRANCE,142.31,Mid-market,NO
+CUST-1949,Ravi costa,ravi <ravi@example.com>,07-02-2025,UNITED STATES,51224,Mid-market,NO
+CUST-1163,Yuki weber,yuki.weber@example.com,02-01-2025,GERMANY,739.25,Enterprise,YES
+CUST-00001187,Ana haddad,ana.haddad@mail.test,08-05-2023,GERMANY,9863,Mid-market,YES
+CUST-00001506,Leilani nakamura,leilani.nakamura@corp.example,07-03-2024,GERMANY,268.81,Enterprise,NO
+CUST-1031,Aisha ferrari,aisha.ferrari@mail.test,06-07-2023,UNITED STATES,169.93,Enterprise,NO
+CUST-1461,Jonas costa,jonas.costa@example.com,09-08-2024,UNITED KINGDOM,407.02,Mid-market,NO
+CUST-00001322, omar haddad,omar.haddad@example.com,12-08-2023,GERMANY,152,Enterprise,NO
+CUST-1359,Ana nguyen,ana.nguyen@example.com,11-04-2024,FRANCE,94.83,Small business,YES
+CUST-1460,Grace haddad,grace.haddad@example.com,20-08-2024,UNITED KINGDOM,174.82,Enterprise,YES
+CUST-1667, sofia okafor,sofia.okafor@corp.example,24-08-2023,UNITED STATES,73,Mid-market,YES
+CUST-00001445,Omar patel  ,omar.patel@corp.example,20-05-2024,UNITED STATES,381.62,Consumer,NO
+CUST-1337,Noor kowalski  ,noor.kowalski@mail.test,05-10-2023,UNITED STATES,76,Mid-market,YES
+CUST-1702,Omar nakamura,omar.nakamura@mail.test,30-10-2023,UNITED KINGDOM,268.81,Enterprise,YES
+CUST-1776,Tomás okafor,toms.okafor@corp.example,21-05-2025,UNITED STATES,277,Enterprise,NO
+CUST-1766,Tomás brennan,toms.brennan@mail.test,22-08-2024,GERMANY,1015.56,Mid-market,YES
+CUST-1108,Ravi odwyer,ravi.odwyer@example.com,18-09-2024,UNITED STATES,166.74,Mid-market,YES
+CUST-1034,Grace nguyen,grace.nguyen@mail.test,13-02-2025,UNITED KINGDOM,144,Enterprise,NO
+CUST-1721,Mikael okafor,mikael.okafor@mail.test,30-11-2023,UNITED STATES,137.67,Small business,NO
+CUST-1406,Yuki okafor,yuki.okafor@example.com,27-04-2025,BRAZIL,126.42,Enterprise,NO
+CUST-1692,Marcus okafor,marcus.okafor@mail.test,04-05-2024,UNITED KINGDOM,256,Enterprise,NO
+CUST-1914, priya lindqvist,priya.lindqvist@mail.test,01-08-2024,BRAZIL,534.82,Enterprise,NO
+CUST-1627,Tomás haddad  ,toms.haddad@example.com,14-06-2025,UNITED STATES,268.81,Mid-market,NO
+CUST-1006,Jonas odwyer,jonas.odwyer@corp.example,09-09-2023,FRANCE,39352,Mid-market,YES
+CUST-00001731,Aisha odwyer,aisha.odwyer@mail.test,25-08-2024,UNITED KINGDOM,7147,Consumer,NO
+CUST-1047,Omar nakamura,omar.nakamura@mail.test,,FRANCE,365.15,Mid-market,YES
+CUST-1849,Omar okafor,omar.okafor@corp.example,04-03-2023,FRANCE,131.87,Mid-market,YES
+CUST-1074,Grace kowalski,grace.kowalski@corp.example,07-03-2024,UNITED KINGDOM,268.81,Consumer,YES
+CUST-1640,Aisha kowalski,aisha.kowalski@corp.example,27-05-2025,UNITED KINGDOM,15568,Small business,NO
+CUST-1875,Chen patel  ,chen.patel@corp.example,31-12-2024,FRANCE,268.81,Mid-market,NO
+CUST-00001871,Aisha brennan,aisha.brennan@mail.test,09-02-2024,UNITED STATES,268.81,Enterprise,YES
+CUST-1010,Leilani nguyen,leilani.nguyen@mail.test,20-02-2025,UNITED STATES,253.3,Mid-market,NO
+CUST-1619,Mikael costa,mikael.costa@example.com,04-11-2023,FRANCE,511,Mid-market,YES
+CUST-00001555, jonas odwyer,jonas.odwyer@corp.example,22-04-2025,FRANCE,268.81,Small business,NO
+CUST-00001863,Tomás haddad,toms.haddad@example.com,28-08-2023,UNITED STATES,75.31,Small business,NO
+CUST-00001672,Leilani da silva,leilani.dasilva@corp.example,20-08-2024,UNITED STATES,321,Mid-market,YES
+CUST-00001446,Mikael costa,mikael.costa@corp.example,26-03-2024,UNITED KINGDOM,268.81,Small business,NO
+CUST-1770, mikael nguyen ,MIKAEL.NGUYEN@EXAMPLE.COM,24-10-2024,GERMANY,268.81,Enterprise,NO
+CUST-00001928,Noor okafor,Noor <Noor@example.com>,09-11-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1663,Noor weber,noor.weber@corp.example,07-04-2024,UNITED STATES,80337,Small business,YES
+CUST-00001075,Leilani nguyen,leilani.nguyen@mail.test,07-03-2023,UNITED KINGDOM,28077,Consumer,NO
+CUST-1069,Chen costa,chen.costa@corp.example,30-09-2023,GERMANY,268.81,Enterprise,YES
+CUST-00001285,Aisha ferrari,aisha.ferrari@mail.test,11-05-2025,FRANCE,4751,Mid-market,NO
+CUST-1842,Ravi weber,ravi.weber@corp.example,26-03-2025,BRAZIL,400.77,Mid-market,NO
+CUST-00001621, sofia da silva,sofia.dasilva@mail.test,01-05-2025,BRAZIL,268.81,Consumer,NO
+CUST-1896,Mikael ferrari,mikael.ferrari@example.com,29-07-2023,UNITED STATES,100,Consumer,YES
+CUST-1834,Aisha da silva,aisha.dasilva@example.com,02-08-2024,GERMANY,211,Mid-market,YES
+CUST-00001877, chen nakamura,chen.nakamura@example.com,25-04-2024,UNITED STATES,728,Small business,YES
+CUST-1859,Jonas odwyer,jonas.odwyer@mail.test,30-03-2024,UNITED KINGDOM,50536,Mid-market,YES
+CUST-1865,Tomás nakamura,toms.nakamura@mail.test,15-10-2024,UNITED KINGDOM,168.8,Mid-market,NO
+CUST-00001821,Leilani odwyer,leilani.odwyer@corp.example,27-01-2024,GERMANY,35377,Mid-market,NO
+CUST-1399,Yuki kowalski,yuki.kowalski@corp.example,13-03-2024,UNITED STATES,67496,Mid-market,YES
+CUST-1487,Mikael weber  ,mikael.weber@corp.example,03-07-2024,UNITED KINGDOM,43.73,Mid-market,YES
+CUST-00001295,Ravi haddad,ravi.haddad@example.com,25-11-2024,FRANCE,923.32,Small business,NO
+CUST-1764,Omar nakamura,omar.nakamura@corp.example,03-04-2024,UNITED STATES,268.81,Enterprise,NO
+CUST-00001510,Ana nakamura,ana.nakamura@mail.test,06-01-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1070,Omar kowalski,omar.kowalski@corp.example,03-02-2023,UNITED STATES,263.5,Small business,NO
+CUST-1027,Ana kowalski,ana.kowalski@corp.example,14-09-2024,UNITED STATES,268.81,Small business,YES
+CUST-00001953,Chen patel  ,chen.patel@corp.example,31-03-2023,BRAZIL,230,Small business,NO
+CUST-1648,Priya haddad,priya.haddad@mail.test,18-09-2023,UNITED STATES,43,Mid-market,NO
+CUST-1033,Leilani haddad  ,leilani.haddad@mail.test,24-06-2023,FRANCE,90.6,Small business,YES
+CUST-1941,Chen lindqvist,chen.lindqvist@corp.example,30-10-2023,FRANCE,402.93,Mid-market,NO
+CUST-1602,Sofia okafor,sofia.okafor@mail.test,11-03-2024,UNITED STATES,234.16,Enterprise,NO
+CUST-1683,Ravi nakamura,ravi.nakamura@mail.test,12-02-2024,BRAZIL,115.04,Enterprise,NO
+CUST-1234,Marcus kowalski,marcus.kowalski@mail.test,01-03-2024,GERMANY,268.81,Mid-market,NO
+CUST-1572,Omar okafor,omar.okafor@corp.example,04-11-2025,GERMANY,514.76,Consumer,NO
+CUST-00001383,Priya patel,priya.patel@corp.example,23-03-2025,BRAZIL,307.65,Consumer,YES
+CUST-00001956,Noor weber,noor.weber@mail.test,,FRANCE,100,Mid-market,NO
+CUST-1759,Priya ferrari,priya.ferrari@mail.test,03-06-2023,UNITED KINGDOM,268.81,Consumer,NO
+CUST-1441,Priya okafor,priya.okafor@corp.example,,UNITED KINGDOM,192.51,Small business,NO
+CUST-1112, ravi weber ,RAVI.WEBER@MAIL.TEST,01-09-2024,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1747,Grace odwyer,Grace[at]example.com,03-06-2024,GERMANY,331.84,Enterprise,NO
+CUST-00001502,Grace nakamura,grace.nakamura@mail.test,11-11-2023,FRANCE,268.81,Enterprise,YES
+CUST-1528, leilani brennan,leilani.brennan@corp.example,14-03-2024,UNITED STATES,29694,Enterprise,YES
+CUST-1907,Marcus patel,marcus.patel@mail.test,13-05-2024,UNITED STATES,12220,Enterprise,YES
+CUST-1326,Marcus odwyer,marcus.odwyer@corp.example,18-06-2024,BRAZIL,268.81,Small business,NO
+CUST-1173, jonas costa,jonas.costa@corp.example,03-12-2023,GERMANY,321,Consumer,NO
+CUST-1662,Ana brennan,ana.brennan@example.com,24-05-2024,UNITED KINGDOM,231,Enterprise,YES
+CUST-1393,Sofia kowalski,Sofia[at]example.com,02-01-2025,UNITED STATES,25044,Small business,NO
+CUST-00001298, jonas patel ,JONAS.PATEL@EXAMPLE.COM,05-06-2024,UNITED STATES,268.81,Enterprise,NO
+CUST-1637,Chen nakamura,chen.nakamura@corp.example,24-06-2023,GERMANY,268.81,Enterprise,YES
+CUST-1475,Marcus ferrari,marcus.ferrari@mail.test,14-09-2023,UNITED STATES,69,Consumer,YES
+CUST-1508,Tomás patel,toms.patel@corp.example,07-09-2023,UNITED STATES,268.81,Enterprise,NO
+CUST-1679,Sofia patel,sofia.patel@example.com,01-06-2024,GERMANY,304.84,Enterprise,YES
+CUST-00001540,Priya patel,priya.patel@mail.test,05-04-2025,GERMANY,317,Enterprise,YES
+CUST-00001757,Aisha ferrari,aisha.ferrari@example.com,26-02-2023,UNITED KINGDOM,36,Enterprise,NO
+CUST-00001634,Chen costa,chen.costa@corp.example,10-02-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1931, marcus ferrari,marcus.ferrari@example.com,27-01-2025,UNITED KINGDOM,134.99,Small business,YES
+CUST-1570,Leilani odwyer,leilani.odwyer@corp.example,21-06-2024,UNITED STATES,419.19,Enterprise,YES
+CUST-1284,Priya nakamura,priya.nakamura@example.com,02-02-2024,GERMANY,296.03,Small business,NO
+CUST-1492, mikael nakamura,mikael.nakamura@mail.test,07-06-2023,GERMANY,268.81,Enterprise,YES
+CUST-1733,Grace lindqvist,grace.lindqvist@corp.example,27-05-2024,FRANCE,150.5,Enterprise,NO
+CUST-1063, priya odwyer ,PRIYA.ODWYER@CORP.EXAMPLE,28-04-2025,BRAZIL,137.74,Mid-market,YES
+CUST-1680,Omar haddad,omar.haddad@mail.test,02-03-2024,UNITED STATES,73335,Enterprise,YES
+CUST-1341,Ravi kowalski,ravi.kowalski@mail.test,07-08-2023,UNITED STATES,33340,Mid-market,YES
+CUST-1017,Omar brennan,omar.brennan@example.com,19-10-2023,GERMANY,486.09,Enterprise,YES
+CUST-1828,Leilani haddad,leilani.haddad@mail.test,21-10-2023,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-00001400,Aisha ferrari,aisha.ferrari@mail.test,20-02-2025,BRAZIL,137,Consumer,NO
+CUST-1361,Aisha weber,aisha.weber@corp.example,06-02-2025,UNITED STATES,268.81,Consumer,YES
+CUST-00001401,Tomás brennan,toms.brennan@mail.test,27-03-2023,GERMANY,-999,Enterprise,YES
+CUST-00001001,Marcus da silva,marcus.dasilva@mail.test,18-08-2024,FRANCE,197.25,Small business,NO
+CUST-1281,Aisha nakamura,aisha.nakamura@corp.example,11-08-2023,FRANCE,268.81,Mid-market,YES
+CUST-00001020,Grace odwyer,grace.odwyer@mail.test,02-10-2023,FRANCE,268.81,Enterprise,NO
+CUST-1666,Ana weber,ana.weber@mail.test,14-02-2025,UNITED KINGDOM,890.59,Mid-market,YES
+CUST-00001599,Ana okafor,ana.okafor@corp.example,30-05-2023,UNITED STATES,18737,Enterprise,NO
+CUST-1071,Grace kowalski,grace.kowalski@example.com,16-01-2024,GERMANY,146,Enterprise,YES
+CUST-1352,Aisha ferrari,Aisha <Aisha@example.com>,19-05-2024,UNITED KINGDOM,14106,Mid-market,NO
+CUST-1053,Tomás da silva,toms.dasilva@mail.test,05-02-2025,UNITED KINGDOM,147.7,Consumer,NO
+CUST-1225,Aisha lindqvist,Aisha@@example..com,18-07-2024,GERMANY,106,Small business,NO
+CUST-00001820, ravi okafor,ravi.okafor@corp.example,07-02-2023,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1653,Grace ferrari  ,grace.ferrari@mail.test,28-12-2023,UNITED KINGDOM,5723,Enterprise,YES
+CUST-1625,Aisha nakamura,aisha.nakamura@mail.test,26-01-2023,UNITED KINGDOM,268.81,Mid-market,NO
+CUST-1777,Ana brennan,ana.brennan@mail.test,25-03-2023,UNITED STATES,728.77,Consumer,YES
+CUST-00001166,Priya nguyen,priya.nguyen@corp.example,05-06-2024,GERMANY,149.64,Enterprise,YES
+CUST-1372,Leilani haddad  ,leilani.haddad@corp.example,07-08-2024,GERMANY,127.5,Mid-market,NO
+CUST-1432,Leilani da silva,leilani.dasilva@corp.example,02-04-2024,GERMANY,186.15,Consumer,NO
+CUST-1077,Ana costa,ana.costa@corp.example,09-12-2024,FRANCE,268.81,Mid-market,YES
+CUST-00001082,Marcus weber,marcus.weber@mail.test,20-07-2024,UNITED STATES,63544,Small business,YES
+CUST-1531,Ana okafor,ana.okafor@example.com,30-06-2023,FRANCE,187.56,Consumer,YES
+CUST-1434,Ana patel,ana.patel@mail.test,16-09-2024,UNITED KINGDOM,153.78,Mid-market,NO
+CUST-00001476,Tomás okafor,toms.okafor@example.com,11-07-2023,BRAZIL,393.42,Mid-market,NO
+CUST-1630, sofia da silva,sofia.dasilva@corp.example,14-01-2025,FRANCE,268.81,Enterprise,YES
+CUST-1170,Sofia nguyen,sofia.nguyen@mail.test,21-04-2024,UNITED KINGDOM,59.08,Mid-market,NO
+CUST-00001700, leilani brennan,leilani.brennan@example.com,24-02-2024,UNITED STATES,775.85,Small business,YES
+CUST-00001706,Sofia nguyen,sofia.nguyen@example.com,13-06-2023,UNITED STATES,15158,Mid-market,NO
+CUST-1084, leilani costa  ,leilani.costa@example.com,22-05-2024,FRANCE,14279,Small business,NO
+CUST-1384, priya brennan,priya.brennan@example.com,11-03-2025,UNITED KINGDOM,162.67,Mid-market,YES
+CUST-1436,Yuki weber  ,yuki.weber@example.com,09-03-2024,UNITED KINGDOM,268.81,Mid-market,NO
+CUST-1913,Grace nguyen  ,grace.nguyen@mail.test,26-06-2024,GERMANY,10178,Enterprise,YES
+CUST-1494, leilani okafor,leilani.okafor@mail.test,05-08-2023,GERMANY,200.32,Mid-market,NO
+CUST-1743,Noor patel,noor.patel@mail.test,23-10-2024,UNITED KINGDOM,268.81,Enterprise,NO
+CUST-1852,Ravi ferrari,ravi.ferrari@corp.example,29-06-2023,BRAZIL,268.81,Mid-market,NO
+CUST-1478,Jonas nakamura,jonas.nakamura@corp.example,24-04-2024,GERMANY,122.56,Mid-market,YES
+CUST-1110,Chen kowalski,chen.kowalski@mail.test,29-02-2024,BRAZIL,9357,Enterprise,NO
+CUST-1257,Tomás da silva,toms.dasilva@example.com,22-04-2024,UNITED STATES,20006,Enterprise,YES
+CUST-1217,Yuki nguyen,yuki.nguyen@mail.test,28-08-2024,FRANCE,195.33,Mid-market,YES
+CUST-00001903,Mikael patel,mikael.patel@mail.test,17-01-2024,UNITED KINGDOM,139.82,Small business,YES
+CUST-1184,Grace da silva,grace.dasilva@corp.example,29-08-2024,UNITED STATES,95,Small business,NO
+CUST-1030,Jonas odwyer,jonas.odwyer@corp.example,16-03-2025,UNITED KINGDOM,209.84,Small business,YES
+CUST-1917,Aisha nakamura  ,aisha.nakamura@mail.test,01-05-2023,GERMANY,526,Small business,NO
+CUST-1947,Marcus nguyen  ,marcus.nguyen@corp.example,06-10-2023,BRAZIL,49636,Enterprise,YES
+CUST-00001451,Sofia haddad,sofia.haddad@example.com,21-04-2025,GERMANY,176.62,Small business,NO
+CUST-1860,Chen nguyen,chen.nguyen@mail.test,27-03-2025,GERMANY,103.9,Consumer,NO
+CUST-1532,Noor nguyen,noor.nguyen@mail.test,,UNITED STATES,52.19,Small business,YES
+CUST-1742,Marcus odwyer,marcus.odwyer@example.com,05-08-2023,UNITED STATES,268.81,Small business,NO
+CUST-1092,Priya nguyen,priya.nguyen@corp.example,23-07-2024,BRAZIL,117.34,Consumer,NO
+CUST-00001264, tomás nguyen,toms.nguyen@corp.example,30-03-2023,BRAZIL,188.28,Enterprise,NO
+CUST-1348,Leilani nguyen,leilani.nguyen@example.com,23-01-2025,UNITED STATES,115,Small business,NO
+CUST-1797,Jonas costa,jonas.costa@example.com,01-11-2025,UNITED KINGDOM,617.59,Mid-market,YES
+CUST-1409,Marcus lindqvist,marcus.lindqvist@corp.example,30-06-2023,BRAZIL,268.81,Small business,NO
+CUST-1304,Priya nakamura,priya.nakamura@corp.example,12-02-2023,UNITED KINGDOM,8637,Mid-market,YES
+CUST-1218,Ravi okafor,ravi.okafor@corp.example,25-02-2024,GERMANY,950.8,Small business,NO
+CUST-00001612,Ana lindqvist,ana[at]example.com,04-11-2023,UNITED STATES,47997,Mid-market,YES
+CUST-1489,Ana patel,ana.patel@mail.test,30-03-2023,GERMANY,268.81,Mid-market,NO
+CUST-1332,Leilani ferrari,Leilani <Leilani@example.com>,25-04-2023,UNITED STATES,84,Enterprise,NO
+CUST-00001157, ravi nguyen ,RAVI.NGUYEN@CORP.EXAMPLE,23-03-2023,BRAZIL,268.81,Enterprise,YES
+CUST-1192,Aisha costa,aisha.costa@corp.example,03-04-2025,UNITED STATES,573.63,Mid-market,NO
+CUST-1442, mikael odwyer,mikael.odwyer@corp.example,10-12-2024,GERMANY,285.51,Enterprise,NO
+CUST-00001874,Aisha haddad,aisha.haddad@mail.test,26-12-2023,UNITED STATES,235.76,Small business,YES
+CUST-1099,Jonas odwyer,jonas.odwyer@example.com,20-01-2024,GERMANY,116,Enterprise,YES
+CUST-1002,Yuki lindqvist  ,yuki.lindqvist@corp.example,23-01-2024,GERMANY,268.81,Small business,YES
+CUST-00001712,Leilani nguyen,leilani.nguyen@example.com,30-11-2024,UNITED KINGDOM,268.81,Small business,NO
+CUST-1000,Ana haddad,ana.haddad@corp.example,12-02-2023,UNITED KINGDOM,689.97,Mid-market,YES
+CUST-1123,Aisha okafor,aisha.okafor@mail.test,03-02-2024,UNITED KINGDOM,206,Enterprise,YES
+CUST-1864,Omar ferrari,omar[at]example.com,10-04-2024,UNITED STATES,192,Enterprise,NO
+CUST-1016,Grace haddad,grace.haddad@corp.example,17-06-2024,UNITED KINGDOM,268.81,Small business,NO
+CUST-00001328,Omar nakamura,omar.nakamura@mail.test,28-08-2023,BRAZIL,848.37,Small business,NO
+CUST-1467,Mikael ferrari,mikael.ferrari@example.com,12-06-2025,UNITED STATES,48582,Consumer,NO
+CUST-1339,Ana ferrari,ana.ferrari@corp.example,17-12-2024,UNITED KINGDOM,15143,Mid-market,NO
+CUST-00001588,Ana nguyen,ana.nguyen@example.com,08-06-2025,UNITED STATES,318.18,Enterprise,NO
+CUST-1287, ana brennan ,ANA.BRENNAN@EXAMPLE.COM,27-11-2024,UNITED KINGDOM,268.81,Small business,YES
+CUST-1685, ravi costa ,RAVI.COSTA@CORP.EXAMPLE,09-02-2024,FRANCE,268.81,Mid-market,NO
+CUST-1321,Grace haddad,grace.haddad@mail.test,03-05-2023,UNITED KINGDOM,231,Mid-market,YES
+CUST-1703,Ravi nguyen,ravi.nguyen@mail.test,17-12-2023,GERMANY,97,Small business,NO
+CUST-1111, priya weber ,PRIYA.WEBER@EXAMPLE.COM,07-07-2024,UNITED STATES,364.88,Enterprise,YES
+CUST-1673,Grace da silva,grace.dasilva@corp.example,11-06-2024,FRANCE,405.54,Mid-market,NO
+CUST-00001258,Chen costa,chen.costa@mail.test,11-08-2023,BRAZIL,268.81,Consumer,NO
+CUST-1746,Ana costa,ana.costa@corp.example,06-09-2024,UNITED KINGDOM,53.71,Mid-market,NO
+CUST-1373,Ravi patel,ravi.patel@example.com,28-07-2023,UNITED STATES,115.98,Mid-market,YES
+CUST-00001910,Omar patel,omar.patel@corp.example,30-04-2024,UNITED KINGDOM,268.81,Mid-market,NO
+CUST-1851,Jonas brennan,jonas.brennan@corp.example,04-01-2023,UNITED KINGDOM,268.81,Small business,YES
+CUST-1277,Ravi nakamura,ravi.nakamura@mail.test,01-04-2024,GERMANY,268.81,Mid-market,YES
+CUST-1142, noor da silva,noor.dasilva@mail.test,17-04-2024,UNITED STATES,268.81,Small business,YES
+CUST-1749,Ravi costa,ravi.costa@corp.example,03-05-2023,UNITED STATES,268.81,Small business,YES
+CUST-00001716, tomás kowalski,toms.kowalski@mail.test,09-01-2024,UNITED STATES,268.81,Small business,YES
+CUST-00001054, sofia nguyen,sofia.nguyen@example.com,24-06-2023,FRANCE,311.53,Small business,NO
+CUST-1495,Jonas lindqvist,jonas.lindqvist@mail.test,07-02-2024,BRAZIL,732.61,Enterprise,YES
+CUST-1381,Sofia kowalski,sofia.kowalski@mail.test,20-08-2024,GERMANY,139,Small business,NO
+CUST-1413, ana okafor ,ANA.OKAFOR@MAIL.TEST,24-11-2024,UNITED STATES,147.59,Small business,YES
+CUST-1538,Tomás kowalski,toms.kowalski@corp.example,16-05-2023,UNITED KINGDOM,34347,Mid-market,NO
+CUST-1846,Priya nakamura,priya.nakamura@example.com,20-01-2025,UNITED KINGDOM,120,Mid-market,NO
+CUST-1112,Ravi weber,ravi.weber@mail.test,01-09-2024,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1519,Ravi nakamura,ravi.nakamura@corp.example,27-09-2024,GERMANY,49.63,Small business,YES
+CUST-1151,Priya okafor,priya.okafor@example.com,03-11-2023,UNITED KINGDOM,268.81,Enterprise,NO
+CUST-1209,Ravi nguyen,ravi.nguyen@mail.test,26-08-2024,GERMANY,76.16,Enterprise,YES
+CUST-00001816,Noor odwyer,noor.odwyer@example.com,24-12-2024,BRAZIL,36.75,Consumer,YES
+CUST-1906,Aisha kowalski,aisha.kowalski@mail.test,26-02-2023,GERMANY,774.36,Mid-market,YES
+CUST-00001097, chen nguyen,chen.nguyen@example.com,28-01-2023,UNITED KINGDOM,456,Enterprise,YES
+CUST-1305, grace ferrari,grace.ferrari@mail.test,21-12-2024,BRAZIL,268.81,Small business,YES
+CUST-00001481, yuki patel,Yuki@@example..com,03-12-2023,UNITED STATES,94.08,Small business,YES
+CUST-1656,Mikael ferrari,mikael.ferrari@example.com,,FRANCE,268.81,Enterprise,NO
+CUST-1832,Leilani kowalski,leilani.kowalski@corp.example,26-04-2023,FRANCE,30142,Mid-market,NO
+CUST-1787,Leilani patel  ,leilani.patel@example.com,22-07-2024,UNITED KINGDOM,-999,Enterprise,YES
+CUST-1668,Marcus patel,marcus.patel@corp.example,16-01-2023,BRAZIL,658,Mid-market,NO
+CUST-1039,Omar costa,omar.costa@mail.test,03-06-2024,FRANCE,268.81,Enterprise,NO
+CUST-1547,Yuki okafor,yuki.okafor@mail.test,11-03-2024,UNITED STATES,16027,Consumer,YES
+CUST-1923,Aisha costa,aisha.costa@corp.example,12-05-2025,UNITED STATES,167.11,Consumer,YES
+CUST-00001240,Aisha patel,aisha.patel@example.com,19-02-2023,UNITED STATES,268.81,Consumer,NO
+CUST-1888,Leilani kowalski,leilani.kowalski@corp.example,11-06-2024,GERMANY,268.81,Small business,NO
+CUST-1491, grace nakamura ,GRACE.NAKAMURA@MAIL.TEST,08-02-2023,UNITED KINGDOM,23990,Mid-market,YES
+CUST-1897,Aisha lindqvist,aisha.lindqvist@corp.example,06-01-2025,UNITED KINGDOM,363,Mid-market,YES
+CUST-1868,Omar haddad,omar.haddad@corp.example,09-10-2024,UNITED STATES,472,Consumer,NO
+CUST-00001354,Mikael okafor,Mikael <Mikael@example.com>,28-03-2023,UNITED STATES,1009.64,Mid-market,YES
+CUST-00001233,Ravi patel,ravi.patel@corp.example,06-03-2023,UNITED STATES,268.81,Enterprise,NO
+CUST-1169,Grace nakamura,grace.nakamura@example.com,26-11-2024,BRAZIL,306.15,Enterprise,NO
+CUST-1079,Chen okafor,Chen@@example..com,19-02-2023,UNITED STATES,165,Enterprise,NO
+CUST-1763,Jonas nakamura,jonas.nakamura@mail.test,25-10-2023,BRAZIL,268.81,Small business,NO
+CUST-1561,Grace patel,grace.patel@example.com,22-02-2025,UNITED KINGDOM,499,Consumer,NO
+CUST-00001688,Ana brennan  ,ana.brennan@corp.example,27-09-2024,GERMANY,46174,Consumer,NO
+CUST-1019,Priya da silva,priya.dasilva@mail.test,16-01-2023,GERMANY,338.98,Consumer,YES
+CUST-1171,Yuki weber,yuki.weber@mail.test,17-02-2023,UNITED KINGDOM,268.81,Enterprise,YES
+CUST-1454,Ravi nguyen,ravi.nguyen@example.com,28-02-2024,UNITED KINGDOM,132.26,Mid-market,NO
+CUST-1199,Tomás kowalski,toms.kowalski@corp.example,10-02-2024,BRAZIL,268.81,Small business,YES
+CUST-1068,Ravi weber,ravi.weber@corp.example,13-10-2024,BRAZIL,6701,Consumer,NO
+CUST-1064, leilani nguyen,leilani.nguyen@example.com,31-10-2024,UNITED STATES,268.81,Enterprise,NO
+CUST-1750,Grace nakamura,grace.nakamura@example.com,29-01-2023,GERMANY,268.81,Enterprise,YES
+CUST-1024, grace ferrari ,GRACE.FERRARI@EXAMPLE.COM,26-04-2023,BRAZIL,115.96,Mid-market,YES
+CUST-1694,Marcus ferrari,marcus.ferrari@mail.test,14-06-2025,FRANCE,22557,Small business,YES
+CUST-1004,Aisha lindqvist  ,aisha.lindqvist@mail.test,28-08-2024,BRAZIL,268.81,Enterprise,NO
+CUST-1595,Grace okafor,grace.okafor@example.com,23-12-2023,UNITED STATES,16260,Enterprise,NO
+CUST-1087,Chen kowalski,chen.kowalski@example.com,19-04-2025,UNITED STATES,93,Mid-market,NO
+CUST-1232, yuki okafor,Yuki <Yuki@example.com>,19-02-2025,UNITED STATES,1221.17,Consumer,YES
+CUST-1533,Jonas costa,jonas.costa@mail.test,14-11-2023,GERMANY,684,Small business,NO
+CUST-1951,Ravi patel,ravi.patel@corp.example,21-03-2025,UNITED KINGDOM,268.81,Consumer,NO
+CUST-1919,Ravi ferrari,ravi.ferrari@example.com,15-04-2025,UNITED STATES,146,Small business,YES
+CUST-00001057,Ravi nguyen,ravi.nguyen@corp.example,06-06-2024,UNITED STATES,268.81,Small business,NO
+CUST-00001805,Priya kowalski,priya.kowalski@corp.example,08-05-2025,UNITED STATES,238.74,Mid-market,NO
+CUST-1278,Jonas ferrari,jonas.ferrari@example.com,03-03-2025,UNITED KINGDOM,268.81,Enterprise,NO
+CUST-1045, yuki nakamura,yuki.nakamura@corp.example,28-04-2025,GERMANY,268.81,Small business,NO
+CUST-1355,Noor nakamura,noor.nakamura@mail.test,06-08-2024,GERMANY,93.71,Consumer,YES
+CUST-1152,Leilani haddad  ,leilani.haddad@corp.example,02-11-2024,GERMANY,177.35,Mid-market,NO
+CUST-1269,Yuki haddad,yuki.haddad@example.com,21-06-2023,UNITED KINGDOM,171623,Mid-market,YES
+CUST-1279,Marcus lindqvist,marcus.lindqvist@corp.example,08-03-2025,UNITED STATES,395.1,Mid-market,YES
+CUST-1427,Aisha patel,aisha.patel@mail.test,03-11-2025,FRANCE,201,Enterprise,NO
+CUST-00001356,Omar ferrari,omar.ferrari@mail.test,28-10-2023,BRAZIL,155.39,Small business,YES
+CUST-1125,Chen lindqvist,chen.lindqvist@example.com,20-08-2023,UNITED STATES,297.54,Small business,YES
+CUST-1497,Aisha ferrari,aisha.ferrari@example.com,21-03-2024,FRANCE,62599,Mid-market,YES
+CUST-00001728,Tomás kowalski,toms.kowalski@corp.example,13-10-2024,GERMANY,363,Mid-market,YES
+CUST-00001106,Sofia haddad,sofia.haddad@example.com,07-04-2025,BRAZIL,465.34,Enterprise,YES
+CUST-1140,Ana nguyen,ana.nguyen@example.com,,UNITED STATES,2956,Mid-market,YES
+CUST-00001215, marcus costa ,MARCUS.COSTA@EXAMPLE.COM,16-05-2025,UNITED KINGDOM,540,Enterprise,YES
+CUST-00001175,Tomás haddad,toms.haddad@corp.example,15-06-2023,UNITED KINGDOM,602.39,Small business,YES
+CUST-00001378,Leilani ferrari,leilani.ferrari@mail.test,24-08-2024,GERMANY,121.63,Mid-market,NO
+CUST-1722,Yuki okafor,yuki.okafor@mail.test,14-04-2024,UNITED STATES,41.84,Enterprise,NO
+CUST-00001597,Ana odwyer,ana.odwyer@corp.example,21-06-2024,GERMANY,131,Small business,YES
+CUST-1126,Ana okafor,ana.okafor@mail.test,10-10-2024,UNITED STATES,268.81,Enterprise,YES
+CUST-1815, ana weber,ana.weber@example.com,04-11-2023,GERMANY,268.81,Enterprise,NO
+CUST-1179,Leilani nguyen,leilani.nguyen@mail.test,09-10-2024,UNITED KINGDOM,62,Mid-market,NO
+CUST-1100,Jonas brennan,jonas.brennan@example.com,22-12-2024,FRANCE,132,Enterprise,YES
+CUST-1207,Ravi brennan,ravi.brennan@corp.example,10-10-2024,UNITED KINGDOM,64412,Mid-market,NO
+CUST-1675,Grace costa,grace.costa@mail.test,05-03-2023,UNITED STATES,268.81,Small business,YES
+CUST-00001901,Grace nguyen  ,grace.nguyen@mail.test,07-10-2024,GERMANY,77.74,Enterprise,YES
+CUST-00001073,Sofia odwyer,sofia.odwyer@corp.example,24-09-2023,UNITED KINGDOM,268.81,Mid-market,YES
+CUST-1589, noor patel,noor.patel@example.com,21-02-2024,UNITED STATES,338.59,Enterprise,NO
+CUST-1204,Marcus haddad,marcus.haddad@corp.example,09-05-2024,BRAZIL,17988,Consumer,NO
+CUST-1642,Mikael okafor,mikael.okafor@corp.example,21-03-2023,UNITED KINGDOM,404.01,Mid-market,YES
+CUST-1657,Chen brennan,chen.brennan@corp.example,10-05-2023,BRAZIL,61.37,Small business,YES
+CUST-1035,Aisha brennan,aisha.brennan@corp.example,07-02-2024,UNITED STATES,236,Small business,NO
+CUST-00001789,Marcus nguyen,Marcus[at]example.com,29-05-2024,GERMANY,268.81,Mid-market,YES
+CUST-1884,Mikael okafor,mikael.okafor@corp.example,02-05-2024,BRAZIL,268.81,Enterprise,YES
+CUST-1041,Ravi brennan,ravi.brennan@mail.test,05-03-2024,GERMANY,221.61,Enterprise,NO
+CUST-1358,Chen nguyen,chen.nguyen@corp.example,10-03-2024,UNITED STATES,87.1,Consumer,NO
+CUST-00001085,Tomás da silva  ,toms.dasilva@corp.example,05-07-2024,UNITED KINGDOM,268.81,Consumer,NO
+CUST-1437,Aisha da silva,aisha.dasilva@example.com,31-07-2023,UNITED STATES,6112,Enterprise,YES
+CUST-1208,Sofia nguyen,sofia.nguyen@mail.test,14-05-2024,UNITED STATES,72,Mid-market,NO
+CUST-1618,Noor weber,noor.weber@mail.test,30-10-2023,FRANCE,816.75,Enterprise,YES
+CUST-00001450, yuki odwyer  ,yuki.odwyer@corp.example,15-07-2024,FRANCE,94,Small business,YES
+CUST-00001043,Grace ferrari,grace.ferrari@mail.test,19-07-2023,UNITED KINGDOM,946.7,Small business,YES
+CUST-00001294, yuki brennan,yuki.brennan@example.com,07-05-2023,UNITED STATES,268.81,Enterprise,NO
+CUST-00001329,Noor lindqvist,noor.lindqvist@corp.example,04-03-2024,UNITED STATES,89.67,Small business,NO
+CUST-1496,Yuki patel,Yuki[at]example.com,14-09-2023,GERMANY,86,Small business,YES
+CUST-00001455,Grace patel,grace.patel@mail.test,27-10-2024,UNITED KINGDOM,136.19,Enterprise,NO
+CUST-00001062,Sofia kowalski,sofia.kowalski@mail.test,26-01-2024,UNITED STATES,1366.92,Mid-market,YES
+CUST-1241,Yuki weber  ,yuki.weber@example.com,29-08-2024,GERMANY,202,Small business,YES
+CUST-1732, leilani odwyer,leilani.odwyer@corp.example,23-03-2024,GERMANY,132327,Small business,NO
+CUST-00001536,Yuki nguyen,yuki.nguyen@example.com,04-11-2025,FRANCE,268.81,Small business,NO
+CUST-00001525,Aisha lindqvist,aisha.lindqvist@example.com,,UNITED KINGDOM,185,Enterprise,NO
+CUST-1129,Jonas lindqvist,jonas.lindqvist@example.com,26-11-2023,UNITED KINGDOM,268.81,Small business,YES
+CUST-00001594,Omar lindqvist,omar.lindqvist@mail.test,19-01-2023,BRAZIL,20114,Consumer,NO
+CUST-1096,Ana patel,ana.patel@mail.test,08-06-2024,UNITED KINGDOM,268.81,Consumer,NO
+CUST-1448,Yuki costa,yuki.costa@mail.test,31-01-2024,FRANCE,81.8,Enterprise,YES
+CUST-00001565,Chen brennan,chen.brennan@example.com,17-01-2025,GERMANY,268.81,Mid-market,NO
+CUST-00001397,Ravi costa,ravi.costa@corp.example,14-07-2024,BRAZIL,442.66,Consumer,NO
+CUST-1720,Aisha nakamura  ,aisha.nakamura@corp.example,14-12-2023,GERMANY,88.41,Enterprise,YES
+CUST-1350,Jonas odwyer,jonas.odwyer@corp.example,10-11-2024,UNITED STATES,45,Small business,NO
+CUST-1120, noor kowalski,noor.kowalski@corp.example,16-01-2024,UNITED STATES,268.81,Mid-market,YES
+CUST-1160,Jonas weber,jonas.weber@example.com,23-11-2024,UNITED STATES,321,Enterprise,NO
+CUST-1639,Priya nakamura,PRIYA[at]example.com,26-05-2025,FRANCE,175.53,Enterprise,YES
+CUST-00001517,Yuki ferrari,yuki.ferrari@corp.example,19-07-2024,UNITED KINGDOM,58405,Small business,YES
+CUST-1051,Aisha da silva,aisha.dasilva@mail.test,11-12-2024,FRANCE,267,Mid-market,YES
+CUST-00001447,Sofia da silva  ,sofia.dasilva@mail.test,16-12-2023,UNITED KINGDOM,15.04,Small business,NO
+CUST-00001880,Mikael nakamura,mikael.nakamura@corp.example,23-12-2024,UNITED STATES,268.81,Consumer,YES
+CUST-1707,Yuki weber,Yuki[at]example.com,30-09-2024,UNITED STATES,268.81,Consumer,YES
+CUST-1932, priya patel,priya.patel@corp.example,20-05-2025,BRAZIL,268.81,Small business,YES
+CUST-1132,Jonas okafor,jonas.okafor@corp.example,06-12-2023,UNITED STATES,809.25,Small business,YES
+CUST-1024,Grace ferrari,grace.ferrari@example.com,26-04-2023,BRAZIL,115.96,Mid-market,YES
+CUST-1654,Marcus haddad,marcus.haddad@corp.example,12-05-2025,UNITED STATES,405.6,Enterprise,NO
+CUST-1263,Ravi nakamura,ravi.nakamura@example.com,08-06-2023,UNITED STATES,268.81,Mid-market,NO
+CUST-1107,Tomás costa,toms.costa@mail.test,,UNITED KINGDOM,564.71,Enterprise,NO
+CUST-1600,Grace nakamura,grace.nakamura@mail.test,29-07-2024,BRAZIL,580.7,Consumer,YES
+CUST-00001458, sofia nguyen,sofia.nguyen@example.com,08-01-2024,BRAZIL,416.79,Enterprise,NO
+CUST-1891,Ana okafor,ana.okafor@corp.example,14-01-2025,UNITED KINGDOM,280,Consumer,YES
+CUST-1689,Chen odwyer,chen.odwyer@example.com,10-06-2023,UNITED STATES,268.81,Small business,YES
+CUST-1377,Priya patel,priya.patel@mail.test,18-01-2025,GERMANY,553.37,Enterprise,NO
+CUST-1115, omar patel,omar.patel@corp.example,16-11-2024,BRAZIL,268.81,Enterprise,NO
+CUST-1782,Marcus brennan,Marcus@@example..com,13-03-2023,FRANCE,268.81,Small business,YES
+CUST-1684,Sofia da silva,sofia.dasilva@corp.example,29-05-2023,UNITED KINGDOM,1358.35,Small business,NO
+CUST-1256,Omar nakamura,omar.nakamura@example.com,06-04-2025,UNITED STATES,73744,Mid-market,NO
+CUST-00001588, ana nguyen ,ANA.NGUYEN@EXAMPLE.COM,08-06-2025,UNITED STATES,318.18,Enterprise,NO
+CUST-1037,Mikael odwyer,mikael.odwyer@corp.example,18-04-2023,BRAZIL,268.81,Mid-market,NO
+CUST-00001479,Aisha lindqvist,aisha.lindqvist@corp.example,09-09-2024,BRAZIL,37.99,Small business,YES
+CUST-1072, mikael costa,mikael.costa@example.com,05-01-2025,BRAZIL,268.81,Enterprise,NO
+CUST-1912, ana nakamura,ana.nakamura@mail.test,27-09-2023,UNITED KINGDOM,258.31,Small business,NO
+CUST-00001127,Yuki okafor,yuki.okafor@example.com,28-10-2024,UNITED STATES,83.09,Small business,NO
+CUST-00001780,Leilani nguyen,leilani.nguyen@mail.test,28-02-2024,BRAZIL,206,Consumer,YES
+CUST-00001858,Tomás ferrari  ,toms.ferrari@example.com,26-03-2023,BRAZIL,406.27,Consumer,YES
+CUST-00001185, ravi patel  ,ravi.patel@corp.example,22-07-2024,BRAZIL,320,Small business,NO
+CUST-00001745,Mikael weber,mikael.weber@example.com,03-03-2023,GERMANY,49.31,Small business,NO
+CUST-00001708,Yuki nguyen,yuki.nguyen@mail.test,21-04-2023,GERMANY,48807,Mid-market,NO
+CUST-1553,Yuki nakamura,yuki.nakamura@example.com,03-08-2023,GERMANY,-999,Mid-market,YES
+CUST-1737,Noor da silva,noor.dasilva@example.com,03-08-2024,GERMANY,268.81,Consumer,YES
+CUST-00001049,Yuki weber,yuki.weber@corp.example,21-12-2024,UNITED STATES,201.9,Enterprise,YES
+CUST-00001768,Marcus brennan,marcus.brennan@corp.example,23-01-2023,UNITED STATES,376,Enterprise,YES
+CUST-00001512,Noor patel,noor.patel@corp.example,13-06-2024,UNITED KINGDOM,268.81,Enterprise,YES
+CUST-1770,Mikael nguyen,mikael.nguyen@example.com,24-10-2024,GERMANY,268.81,Enterprise,NO
+CUST-1055,Mikael okafor  ,mikael.okafor@corp.example,17-12-2024,BRAZIL,50,Consumer,YES
+CUST-1061,Noor nakamura,noor.nakamura@mail.test,21-10-2024,UNITED STATES,268.81,Small business,YES
+CUST-1769,Aisha lindqvist,aisha.lindqvist@example.com,17-02-2024,FRANCE,43.79,Small business,NO
+CUST-00001798,Jonas costa,jonas.costa@mail.test,24-12-2024,UNITED STATES,213.42,Small business,NO
+CUST-00001429,Priya brennan,priya.brennan@example.com,09-10-2023,UNITED KINGDOM,657.79,Consumer,YES
+CUST-1439,Omar kowalski,omar.kowalski@mail.test,18-12-2024,UNITED STATES,268.81,Mid-market,YES
+CUST-1568,Sofia patel,sofia.patel@example.com,03-06-2024,GERMANY,268.81,Enterprise,YES
+CUST-00001219,Leilani kowalski,leilani.kowalski@mail.test,27-12-2024,UNITED KINGDOM,221.3,Consumer,NO
+CUST-1220,Chen lindqvist,chen.lindqvist@example.com,05-09-2023,GERMANY,268.81,Enterprise,YES
+CUST-1008, marcus costa  ,marcus.costa@mail.test,16-08-2024,UNITED STATES,317,Small business,NO
+CUST-00001306,Aisha lindqvist,aisha.lindqvist@mail.test,24-07-2023,BRAZIL,103,Mid-market,YES
+CUST-00001697, chen haddad,chen.haddad@example.com,21-04-2025,UNITED KINGDOM,268.81,Consumer,YES
+CUST-1626,Ana costa,ana.costa@corp.example,13-03-2024,UNITED STATES,112.65,Mid-market,YES
+CUST-00001652,Sofia okafor,sofia.okafor@corp.example,26-07-2024,UNITED STATES,567.1,Mid-market,NO
+CUST-00001658,Jonas ferrari,jonas.ferrari@corp.example,27-12-2024,UNITED KINGDOM,466.08,Enterprise,NO
+CUST-1419,Ana nguyen,ana[at]example.com,29-08-2024,UNITED STATES,726.2,Enterprise,NO
+CUST-1402,Omar ferrari  ,omar.ferrari@example.com,,FRANCE,46221,Mid-market,YES
+CUST-1290,Grace nguyen,grace.nguyen@mail.test,05-07-2024,GERMANY,577.77,Enterprise,YES
+CUST-1693,Tomás weber,toms.weber@corp.example,02-01-2023,UNITED STATES,67.71,Enterprise,NO
