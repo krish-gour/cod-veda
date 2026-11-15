@@ -1,29 +1,46 @@
-# Krish Gour — Project Portfolio
+# Krish Gour — Data Analytics Portfolio
 
-Python and data-focused projects covering data cleaning, exploratory analysis, visualization, introductory machine learning, and database-backed applications.
+Python data analytics projects focused on cleaning, exploratory analysis, visualization and introductory machine learning.
 
 ## Core tools
 - Python
 - Pandas and NumPy
 - Matplotlib and Seaborn
 - scikit-learn and statsmodels
-- MySQL and SQL
 - Jupyter Notebook
 
-## Featured projects
+## Featured work
 
-### 1. Codveda Data Analytics
-Hands-on notebooks covering customer data cleaning, Iris exploratory analysis, stock data visualizations, regression, time-series analysis, K-Means clustering, classification and sentiment analysis.
+### Codveda Data Analytics Projects
+A collection of practical notebooks organized by task level.
 
-[Open the Codveda analytics project](https://github.com/krish-gour/cod-veda/tree/main)
+| Area | Work included |
+|---|---|
+| Data cleaning | Customer CSV preprocessing, text and category standardization, date parsing, numeric conversion and validation |
+| Exploratory analysis | Descriptive statistics and distribution analysis using the Iris dataset |
+| Visualization | AAPL stock-price line, bar and scatter charts |
+| Regression | Simple linear regression with train/test evaluation |
+| Time series | Weekly AAPL series, seasonal decomposition and moving-average smoothing |
+| Clustering | Feature standardization, elbow method and K-Means |
+| Classification | Preprocessing pipelines, multiple classifiers and model evaluation |
+| NLP | Text preprocessing and sentiment analysis |
 
-### 2. Game Store Management System
-A Python command-line application backed by MySQL. Supports catalogue browsing, game search, purchase recording, stock updates and customer/sales reports. Purchase writes use parameterized SQL and a transaction.
+Open the [Codveda analytics project](https://github.com/krish-gour/cod-veda).
 
-[Open the Game Store project](https://github.com/krish-gour/cod-veda/tree/main/game-store-management)
+## Running the notebooks
 
-## Running projects
-Each project folder contains its own README and setup instructions. The projects are learning and portfolio demonstrations, not production services.
+1. Clone this repository.
+2. Install the required packages in a Python environment.
+3. Open the relevant task folder in Jupyter Notebook or JupyterLab.
+4. Run notebook cells from top to bottom, keeping each dataset in its task folder so relative file paths resolve.
 
-## Contact
-[GitHub profile](https://github.com/krish-gour)
+Example:
+
+    python -m pip install pandas numpy matplotlib seaborn scikit-learn statsmodels nltk textblob wordcloud
+
+Some notebooks use only a subset of these packages.
+
+## Project scope
+
+These are hands-on learning and internship project exercises, not production analytics systems. The Level 3 Power BI folder contains a raw dataset, Power Query script, DAX measures and a build guide; it does not contain a completed or published .pbix dashboard.
+
