@@ -38,7 +38,7 @@ If you already have a game_store database, compare its tables with the schema be
 - customers(customer_id, name, email, phone)
 - sales(sale_id, customer_id, game_id, quantity, total_price, sale_date)
 
-The schema uses InnoDB so purchase transactions and row locking are supported.
+The schema uses InnoDB so purchase transactions and row locking are supported. It also defines customer_id and sale_id as AUTO_INCREMENT primary keys; the application relies on MySQL generating these IDs. If you already created the tables with different definitions, migrate or recreate them to match before running this version.
 
 ### 2. Install the dependency
 
