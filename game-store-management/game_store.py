@@ -21,13 +21,17 @@ def get_connection():
             "Missing database environment variable(s): " + ", ".join(missing)
         )
 
-    return mysql.connector.connect(
+    connection = mysql.connector.connect(
         host=os.getenv("DB_HOST", "localhost"),
         port=int(os.getenv("DB_PORT", "3306")),
         user=os.environ["DB_USER"],
         password=os.environ["DB_PASSWORD"],
         database=os.environ["DB_NAME"],
     )
+    # Keep standalone reads outside implicit transactions. Purchases explicitly
+    # open a transaction in buy_game() before changing customer, stock and sales.
+    connection.autocommit = True
+    return connection
 
 
 def print_games(cursor) -> None:
